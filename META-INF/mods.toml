@@ -1,0 +1,23 @@
+modLoader="lowcodefml"
+loaderVersion="*"
+issueTrackerURL="null"
+license="MIT"
+[[mods]]
+    modId="tinkers_waste"
+    version="0.0.0"
+    displayName="Tinkers' Waste"
+    description='''
+    An add-on for Tinkers' Construct that wasted lots of the developer's time.
+    '''
+[[dependencies.tinkers_things]]
+    modId="tconstruct"
+    mandatory=true
+    versionRange="*"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.tinkers_things]]
+    modId="jsonthings"
+    mandatory=true
+    versionRange="*"
+    ordering="NONE"
+    side="BOTH"

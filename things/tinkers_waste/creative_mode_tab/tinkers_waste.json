@@ -1,0 +1,14 @@
+{
+  "icon": {
+    "item": "tinkers_waste:torch",
+    "tag": {
+      "tic_materials": [ "tconstruct:slimewood" ]
+    }
+  },
+      "after": [ "tconstruct:world" ],
+      "translation_key": "itemGroup.tinkers_waste.tinkers_waste",
+      "items": [
+        "tinkers_waste:rod",
+        "tinkers_waste:torch"
+      ]
+    }

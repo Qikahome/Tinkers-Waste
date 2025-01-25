@@ -1,0 +1,33 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default-tool",
+  "textures": {
+    "head": "tinkers_waste:item/tool/rod/head",
+    "handle": "tinkers_waste:item/tool/rod/handle",
+    "down": "tinkers_waste:item/tool/rod/down"
+  },
+  "parts": [
+    {
+      "name": "handle",
+      "index": 1
+    },
+    {
+      "name": "down",
+      "index": 2
+    },
+    {
+      "name": "head",
+      "index": 0
+    }
+  ],
+  "overrides": [
+    {
+      "predicate": { "tconstruct:charging": 2 },
+      "model": "tinkers_waste:item/rod/blocking"
+    },
+    {
+      "predicate": { "tconstruct:broken": 1 },
+      "model": "tinkers_waste:item/rod/broken"
+    }
+  ]
+}

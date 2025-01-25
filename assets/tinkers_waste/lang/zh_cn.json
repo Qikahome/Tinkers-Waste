@@ -1,0 +1,11 @@
+{
+  "description.tinkers_waste.pack": "匠魂废物的数据和资源",
+  "itemGroup.tinkers_waste.tinkers_waste": "匠魂废物",
+
+
+  "item.tinkers_waste.torch": "火把",
+  "item.tinkers_waste.torch.description": "火把是一种用于点亮周围的工具。",
+
+  "item.tinkers_waste.rod": "长棍",
+  "item.tinkers_waste.rod.description": "长棍是一种用于增加触及距离的工具。\n也可以用作手杖。"
+}

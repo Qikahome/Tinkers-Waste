@@ -1,0 +1,13 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default-tool",
+  "textures": {
+    "handle": "tinkers_waste:item/tool/torch/handle"
+  },
+  "parts": [
+    {
+      "name": "handle",
+      "index": 0
+    }
+  ]
+}

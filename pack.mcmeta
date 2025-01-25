@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": {"type":"translatable","translate":"description.tinkers_waste.pack","fallback":"Tinkers' Waste Data&Resource"},
+        "pack_format": 8
+    }
+}

@@ -1,0 +1,34 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default-tool",
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [ 0, 0, 0 ],
+      "translation": [ 0, 3, 1 ],
+      "scale": [ 0.55, 0.55, 0.55 ]
+    }
+  },
+    "textures": {
+      "head": "tinkers_waste:item/tool/torch/head",
+      "handle": "tinkers_waste:item/tool/torch/handle"
+    },
+    "parts": [
+      {
+        "name": "handle",
+        "index": 0
+      },
+      {
+        "name": "head"
+      }
+    ],
+    "overrides": [
+      {
+        "predicate": { "tconstruct:charging": 2 },
+        "model": "tinkers_waste:item/torch/blocking"
+      },
+      {
+        "predicate": { "tconstruct:broken": 1 },
+        "model": "tinkers_waste:item/torch/broken"
+      }
+    ]
+  }

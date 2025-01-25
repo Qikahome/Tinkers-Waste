@@ -1,0 +1,23 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default-tool",
+  "textures": {
+    "head": "tinkers_waste:item/tool/rod/head_broken",
+    "handle": "tinkers_waste:item/tool/rod/handle_broken",
+    "down": "tinkers_waste:item/tool/rod/down"
+  },
+  "parts": [
+    {
+      "name": "handle",
+      "index": 1
+    },
+    {
+      "name": "down",
+      "index": 2
+    },
+    {
+      "name": "head",
+      "index": 0
+    }
+  ]
+}
