@@ -1,0 +1,54 @@
+{
+  "translation_key": "item.tinkers_waste.backpack",
+  "icon": {
+    "item":"tinkers_waste:backpack"
+  },
+  "sortIndex": 114,
+  "input_slots": [
+    {
+      "filter": {
+        "item": "minecraft:leather"
+      },
+      "icon": "tinkers_waste:leather",
+      "translation_key": "item.minecraft.leather",
+      "x": 23,
+      "y": 29
+    },
+    {
+      "filter": {
+        "item": "minecraft:leather"
+      },
+      "icon": "tinkers_waste:leather",
+      "translation_key": "item.minecraft.leather",
+      "x": 43,
+      "y": 29
+    },
+    {
+      "filter": {
+        "item": "minecraft:chest"
+      },
+      "icon": "tconstruct:shield_core",
+      "translation_key": "block.minecraft.chest",
+      "x": 33,
+      "y": 53
+    },
+    {
+      "filter": {
+        "item": "minecraft:leather"
+      },
+      "icon": "tinkers_waste:leather",
+      "translation_key": "item.minecraft.leather",
+      "x": 13,
+      "y": 49
+    },
+    {
+      "filter": {
+        "item": "minecraft:leather"
+      },
+      "icon": "tinkers_waste:leather",
+      "translation_key": "item.minecraft.leather",
+      "x": 53,
+      "y": 49
+    }
+  ]
+}

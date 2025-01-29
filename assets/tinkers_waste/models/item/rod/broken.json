@@ -1,0 +1,7 @@
+{
+  "parent": "tinkers_waste:item/rod",
+  "textures": {
+    "head": "tinkers_waste:item/tool/rod/head_broken",
+    "handle": "tinkers_waste:item/tool/rod/handle_broken"
+  }
+}

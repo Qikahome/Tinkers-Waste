@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:incremental_modifier",
+  "allow_crystal": false,
+  "amount_per_item": 1,
+  "input": {
+    "tag": "forge:ingots/netherite"
+  },
+  "level": 4,
+  "needed_per_level": 1,
+  "result": "tinkers_waste:backpack_upgrade",
+  "tools": { "item": "tinkers_waste:backpack" }
+}

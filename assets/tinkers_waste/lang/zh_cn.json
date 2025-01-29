@@ -1,0 +1,24 @@
+{
+  "description.tinkers_waste.pack": "工匠的实用小物件的数据和资源",
+  "itemGroup.tinkers_waste.tinkers_waste": "工匠的实用小物件",
+
+
+  "item.tinkers_waste.torch": "火把",
+  "item.tinkers_waste.torch.description": "火把是一种用于点亮周围的工具。",
+
+  "item.tinkers_waste.backpack": "工匠背包",
+  "item.tinkers_waste.backpack.description": "背包是一种用于存储物品的工具。",
+
+  "modifier.tinkers_waste.backpack": "背包",
+  "modifier.tinkers_waste.backpack.flavor": "背起你的行囊！",
+  "modifier.tinkers_waste.backpack.description": "提供9个储物槽位",
+  "modifier.tinkers_waste.backpack_upgrade": "背包升级",
+  "modifier.tinkers_waste.backpack_upgrade.flavor": "更快，更大，更强！",
+  "modifier.tinkers_waste.backpack_upgrade.description": "每级提供18个储物槽位和1个升级槽",
+  "modifier.tinkers_waste.armorization": "护甲化",
+  "modifier.tinkers_waste.armorization.flavor": "背包是穿在胸甲槽的，所以背包也是胸甲",
+  "modifier.tinkers_waste.armorization.description": "提供2个防御槽和6点护甲值",
+
+  "item.tinkers_waste.rod": "长棍",
+  "item.tinkers_waste.rod.description": "长棍是一种用于增加触及距离的工具。\n也可以用作手杖。"
+}

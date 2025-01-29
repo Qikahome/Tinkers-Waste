@@ -1,0 +1,15 @@
+{
+  "type": "tconstruct:incremental_modifier",
+  "allow_crystal": false,
+  "amount_per_item": 1,
+  "input": {
+    "item": "minecraft:iron_chestplate"
+  },
+  "level": 1,
+  "needed_per_level": 1,
+  "slots": {
+    "upgrades": 1
+  },
+  "result": "tinkers_waste:armorization",
+  "tools": { "item": "tinkers_waste:backpack" }
+}

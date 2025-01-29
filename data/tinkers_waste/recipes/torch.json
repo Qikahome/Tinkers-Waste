@@ -1,0 +1,7 @@
+{
+  "type": "tconstruct:tool_building",
+  "extra_requirements": [
+    { "tag": "minecraft:coals" }
+  ],
+  "result": "tinkers_waste:torch"
+}

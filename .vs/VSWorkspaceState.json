@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\assets",
+    "\\assets\\tinkers_waste",
+    "\\assets\\tinkers_waste\\textures",
+    "\\assets\\tinkers_waste\\textures\\item",
+    "\\assets\\tinkers_waste\\textures\\item\\tool",
+    "\\assets\\tinkers_waste\\textures\\item\\tool\\backpack",
+    "\\assets\\tinkers_waste\\textures\\item\\tool\\rod",
+    "\\assets\\tinkers_waste\\textures\\item\\tool\\torch",
+    "\\META-INF"
+  ],
+  "SelectedNode": "\\data\\tinkers_waste\\tinkering\\modifiers\\backpack_upgrade.json",
+  "PreviewInSolutionExplorer": false
+}

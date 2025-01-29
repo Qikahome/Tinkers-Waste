@@ -1,0 +1,4 @@
+{
+  "tinkers_waste:backpack_upgrade": [ "tinkers_waste:item/tool/backpack/backpack_upgrade", "tconstruct:gui/modifiers/tier" ],
+  "tinkers_waste:armorization" : [ "minecraft:item/iron_chestplate", "tconstruct:gui/modifiers/book" ]
+}

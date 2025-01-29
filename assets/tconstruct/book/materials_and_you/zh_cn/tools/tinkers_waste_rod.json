@@ -1,0 +1,14 @@
+{
+  "tool": "tinkers_waste:rod",
+  "text": [
+    { "text": "这只是一根很长的棍子。" },
+    {
+      "text": "也有些人会把它当作手杖。",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "额外的“长臂”强化",
+    "额外的“击退”强化"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "icon": {
+    "item": "tinkers_waste:torch",
+    "nbt": {
+      "tic_display": true,
+      "tic_materials": [ "tconstruct:ui_render#head", "tconstruct:ui_render#handle", "tconstruct:ui_render#extra" ]
+    }
+  },
+      "after": [ "tconstruct:world" ],
+      "translation_key": "itemGroup.tinkers_waste.tinkers_waste",
+      "items": [
+        "tinkers_waste:rod",
+        "tinkers_waste:torch",
+        "tinkers_waste:backpack"
+      ]
+    }

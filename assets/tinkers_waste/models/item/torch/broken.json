@@ -1,0 +1,6 @@
+{
+  "parent": "tinkers_waste:item/torch",
+  "textures": {
+    "head": "tinkers_waste:item/tool/torch/head_unlit"
+  }
+}
