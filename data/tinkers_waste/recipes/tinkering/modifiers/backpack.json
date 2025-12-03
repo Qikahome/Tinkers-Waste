@@ -1,0 +1,25 @@
+{
+  "level_display": "tconstruct:no_levels",
+  "modules": [
+    {
+      "type": "tconstruct:inventory",
+      "slots": { "each_level": 9 }
+    },
+    {
+      "type": "tconstruct:inventory_menu",
+      "on_key": "any"
+    },
+    {
+      "type": "tconstruct:modifier_slot",
+      "count": -0.9,
+      "name": "upgrades"
+    },
+    {
+      "type": "tconstruct:stat_boost",
+      "each_level": 1,
+      "operation": "multiply_base",
+      "stat": "tconstruct:tank_capacity"
+    }
+  ],
+  "tooltip_display": "always"
+}

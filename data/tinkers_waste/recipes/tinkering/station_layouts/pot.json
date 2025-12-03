@@ -1,0 +1,18 @@
+{
+  "translation_key": "item.tinkers_waste.pot",
+  "icon": {
+    "item": "tinkers_waste:pot"
+  },
+  "sortIndex": 115,
+  "input_slots": [
+    {
+      "icon": "tconstruct:ingot",
+      "translation_key": "item.minecraft.coal",
+      "x": 30,
+      "y": 35,
+      "filter": {
+        "tag": "minecraft:coals"
+      }
+    }
+  ]
+}

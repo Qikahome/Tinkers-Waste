@@ -1,7 +1,6 @@
 {
   "replace": false,
   "values": [
-    "tinkers_waste:rod",
     "tinkers_waste:litboard"
   ]
 }

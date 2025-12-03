@@ -1,0 +1,7 @@
+{
+  "type": "tconstruct:tool_building",
+  "extra_requirements": [
+    { "tag": "forge:ingots/copper" }
+  ],
+  "result": "tinkers_waste:pot"
+}

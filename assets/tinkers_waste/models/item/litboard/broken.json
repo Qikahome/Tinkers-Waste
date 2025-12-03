@@ -1,0 +1,23 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "tinkers_waste:item/litboard",
+  "textures": {
+    "plate1": "tinkers_waste:item/tool/litboard/plate1",
+    "plate2": "tinkers_waste:item/tool/litboard/plate2",
+    "core": "tinkers_waste:item/tool/litboard/off"
+  },
+  "parts": [
+    {
+      "name": "plate1",
+      "index": 0
+    },
+    {
+      "name": "plate2",
+      "index": 1
+    },
+    {
+      "name": "core"
+    }
+  ],
+  "large": false
+}

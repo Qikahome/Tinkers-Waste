@@ -1,0 +1,57 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tconstruct:attribute",
+      "attribute": "forge:block_reach",
+      "each_level": 1.0,
+      "operation": "addition",
+      "slots": [
+        "mainhand",
+        "offhand",
+        "feet",
+        "legs",
+        "chest",
+        "head"
+      ],
+      "unique": "tinkers_waste.modifier.lengthen"
+    },
+    {
+      "type": "tconstruct:attribute",
+      "attribute": "forge:entity_reach",
+      "each_level": 1.0,
+      "operation": "addition",
+      "slots": [
+        "mainhand",
+        "offhand",
+        "feet",
+        "legs",
+        "chest",
+        "head"
+      ],
+      "unique": "tinkers_waste.modifier.lengthen"
+    },
+    {
+      "type": "tconstruct:attribute",
+      "attribute": "minecraft:generic.movement_speed",
+      "each_level": -0.1,
+      "operation": "multiply_base",
+      "slots": [
+        "mainhand",
+        "offhand",
+        "feet",
+        "legs",
+        "chest",
+        "head"
+      ],
+      "unique": "tinkers_waste.modifier.lengthen"
+    },
+    {
+      "type": "tconstruct:stat_boost",
+      "each_level": -0.1,
+      "operation": "multiply_base",
+      "stat": "tconstruct:mining_speed"
+    }
+  ],
+  "tooltip_display": "always"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:part_builder_tool_recycling",
+  "parts": [
+    "tconstruct:helmet_plating",
+    "tconstruct:helmet_plating"
+  ],
+  "pattern": {
+    "tag": "tconstruct:patterns/default"
+  },
+  "tools": {
+    "item": "tinkers_waste:litboard"
+  }
+}
