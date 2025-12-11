@@ -2,15 +2,16 @@
   "ExpandedNodes": [
     "",
     "\\assets",
+    "\\assets\\tconstruct",
+    "\\assets\\tconstruct\\book",
+    "\\assets\\tconstruct\\book\\encyclopedia",
+    "\\assets\\tconstruct\\book\\encyclopedia\\zh_cn",
+    "\\assets\\tconstruct\\book\\encyclopedia\\zh_cn\\abilities",
+    "\\assets\\tconstruct\\book\\encyclopedia\\zh_cn\\abilities\\armor",
     "\\assets\\tinkers_waste",
-    "\\assets\\tinkers_waste\\textures",
-    "\\assets\\tinkers_waste\\textures\\item",
-    "\\assets\\tinkers_waste\\textures\\item\\tool",
-    "\\assets\\tinkers_waste\\textures\\item\\tool\\backpack",
-    "\\assets\\tinkers_waste\\textures\\item\\tool\\rod",
-    "\\assets\\tinkers_waste\\textures\\item\\tool\\torch",
-    "\\META-INF"
+    "\\assets\\tinkers_waste\\models",
+    "\\assets\\tinkers_waste\\models\\item"
   ],
-  "SelectedNode": "\\data\\tinkers_waste\\tinkering\\modifiers\\backpack_upgrade.json",
+  "SelectedNode": "\\data\\tinkers_waste\\tinkering\\tool_definitions\\litboard.json",
   "PreviewInSolutionExplorer": false
 }

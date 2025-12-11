@@ -1,6 +1,14 @@
 {
   "layers": [
     {
+      "type": "tconstruct:material",
+      "index": 0,
+      "prefix": "tinkers_waste:backpack/outer_"
+    },
+    {
+      "type": "tconstruct:material",
+      "index": 1,
+      "prefix": "tinkers_waste:backpack/body_"
     }
   ]
 }

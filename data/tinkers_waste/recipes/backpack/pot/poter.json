@@ -1,9 +1,0 @@
-{
-  "type": "tconstruct:incremental_modifier",
-  "allow_crystal": true,
-  "input": {
-    "tag": "forge:ingots/copper"
-  },
-  "result": "tinkers_waste:poter",
-  "tools": { "item": "tinkers_waste:pot" }
-}

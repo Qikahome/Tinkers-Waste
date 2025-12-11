@@ -4,7 +4,7 @@ issueTrackerURL="https://github.com/QikaHome/Tinkers-Waste/issues"
 license="MIT"
 [[mods]]
     modId="tinkers_waste"
-    version="0.0.5"
+    version="1.0.0"
     displayName="Tinkers' Useful Items"
     description='''
     An add-on for Tinkers' Construct that is not wasteful at all

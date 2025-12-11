@@ -1,12 +1,12 @@
 {
-  "type": "tconstruct:incremental_modifier",
+  "type": "tconstruct:modifier",
+  "inputs": [
+    { "tag": "forge:ingots/netherite" },
+    { "item": "minecraft:netherite_upgrade_smithing_template" }
+  ],
+  "tools": { "item": "tinkers_waste:backpack" },
   "allow_crystal": false,
-  "amount_per_item": 1,
-  "input": {
-    "tag": "forge:ingots/netherite"
-  },
-  "level": 4,
-  "needed_per_level": 1,
   "result": "tinkers_waste:backpack_upgrade",
-  "tools": { "item": "tinkers_waste:backpack" }
+  "level": 4,
+  "slots": { "upgrades": 1 }
 }

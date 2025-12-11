@@ -1,6 +1,14 @@
 {
   "modules": [
     {
+      "type": "tconstruct:part_stats",
+      "parts": [
+        "tconstruct:maille",
+        "tconstruct:maille"
+      ],
+      "primary_part": 0
+    },
+    {
       "type": "tconstruct:traits",
       "traits": [
         {

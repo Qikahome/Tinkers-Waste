@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:tool_building",
+  "extra_requirements": [
+    { "tag": "forge:chests/wooden" },
+    { "item": "minecraft:leather" },
+    { "item": "minecraft:leather" }
+  ],
+  "result": "tinkers_waste:backpack"
+}

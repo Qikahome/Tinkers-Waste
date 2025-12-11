@@ -3,104 +3,55 @@
   "WorkspaceRootPath": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\tinkering\\modifier_icons.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\tinkers_waste\\tinkering\\modifier_icons.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\tool_definitions\\litboard.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\tinkers_waste\\tinkering\\tool_definitions\\litboard.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\modifiers\\backpack_upgrade.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\tinkers_waste\\tinkering\\modifiers\\backpack_upgrade.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\modifiers\\armorization.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\tinkers_waste\\tinkering\\modifiers\\armorization.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\modifiers\\backpack.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\tinkers_waste\\tinkering\\modifiers\\backpack.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\META-INF\\neoforge.mods.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:META-INF\\neoforge.mods.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\META-INF\\mods.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:META-INF\\mods.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\tinkering\\armor_models\\backpack.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\tinkers_waste\\tinkering\\armor_models\\backpack.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\mantle\\colors\\tinkers_waste.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\tinkers_waste\\mantle\\colors\\tinkers_waste.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\modifiers\\firewall.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\tinkers_waste\\tinkering\\modifiers\\firewall.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\tool_definitions\\backpack.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\tinkers_waste\\tinkering\\tool_definitions\\backpack.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\tool_definitions\\rod.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\tinkers_waste\\tinkering\\tool_definitions\\rod.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\models\\item\\backpack.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\tinkers_waste\\models\\item\\backpack.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\station_layouts\\backpack.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\tinkers_waste\\tinkering\\station_layouts\\backpack.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tconstruct\\book\\encyclopedia\\zh_cn\\slotless\\armor\\tinkers_waste_backpack_upgrade.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\tconstruct\\book\\encyclopedia\\zh_cn\\slotless\\armor\\tinkers_waste_backpack_upgrade.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\models\\item\\rod\\broken.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\tinkers_waste\\models\\item\\rod\\broken.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tconstruct\\book\\encyclopedia\\zh_cn\\armor\\tinkers_waste_backpack.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\tconstruct\\book\\encyclopedia\\zh_cn\\armor\\tinkers_waste_backpack.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\models\\item\\rod\\blocking.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\tinkers_waste\\models\\item\\rod\\blocking.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tconstruct\\book\\encyclopedia\\zh_cn\\upgrades\\armor\\tinkers_waste_armorization.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\tconstruct\\book\\encyclopedia\\zh_cn\\upgrades\\armor\\tinkers_waste_armorization.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\models\\item\\torch\\blocking.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\tinkers_waste\\models\\item\\torch\\blocking.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tconstruct\\book\\encyclopedia\\zh_cn\\tools\\small\\tinkers_waste_torch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\tconstruct\\book\\encyclopedia\\zh_cn\\tools\\small\\tinkers_waste_torch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\models\\item\\torch\\broken.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\tinkers_waste\\models\\item\\torch\\broken.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tconstruct\\book\\encyclopedia\\zh_cn\\tools\\staff\\tinkers_waste_rod.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\tconstruct\\book\\encyclopedia\\zh_cn\\tools\\staff\\tinkers_waste_rod.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\models\\item\\torch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\tinkers_waste\\models\\item\\torch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinker-Things\\assets\\tconstruct\\book\\encyclopedia\\zh_cn\\tools\\small\\tinkers_things_shortbow.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\models\\item\\rod.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\tinkers_waste\\models\\item\\rod.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tconstruct\\book\\materials_and_you\\zh_cn\\tools\\tinkers_waste_rod.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\tconstruct\\book\\materials_and_you\\zh_cn\\tools\\tinkers_waste_rod.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\textures\\item\\tool\\torch\\head_unlit.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\tinkers_waste\\textures\\item\\tool\\torch\\head_unlit.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\lang\\zh_cn.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\tinkers_waste\\lang\\zh_cn.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\recipes\\backpack\\armorization.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\tinkers_waste\\recipes\\backpack\\armorization.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\recipes\\backpack\\backpack_level_1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\tinkers_waste\\recipes\\backpack\\backpack_level_1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tconstruct\\tags\\items\\modifiable\\bonus_slots.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\tconstruct\\tags\\items\\modifiable\\bonus_slots.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tconstruct\\book\\materials_and_you\\zh_cn\\tools\\tinkers_waste_torch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\tconstruct\\book\\materials_and_you\\zh_cn\\tools\\tinkers_waste_torch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\tinkering\\generator_part_textures.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\tinkers_waste\\tinkering\\generator_part_textures.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\station_layouts\\rod.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\tinkers_waste\\tinkering\\station_layouts\\rod.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\models\\item\\backpack.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\tinkers_waste\\models\\item\\backpack.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,326 +61,176 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "armorization.json",
-              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\modifiers\\armorization.json",
-              "RelativeDocumentMoniker": "data\\tinkers_waste\\tinkering\\modifiers\\armorization.json",
-              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\modifiers\\armorization.json",
-              "RelativeToolTip": "data\\tinkers_waste\\tinkering\\modifiers\\armorization.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T03:50:37.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "backpack_upgrade.json",
-              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\modifiers\\backpack_upgrade.json",
-              "RelativeDocumentMoniker": "data\\tinkers_waste\\tinkering\\modifiers\\backpack_upgrade.json",
-              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\modifiers\\backpack_upgrade.json",
-              "RelativeToolTip": "data\\tinkers_waste\\tinkering\\modifiers\\backpack_upgrade.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T03:50:00.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "modifier_icons.json",
-              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\tinkering\\modifier_icons.json",
-              "RelativeDocumentMoniker": "assets\\tinkers_waste\\tinkering\\modifier_icons.json",
-              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\tinkering\\modifier_icons.json",
-              "RelativeToolTip": "assets\\tinkers_waste\\tinkering\\modifier_icons.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA/AAAAAAAAAA==",
+              "Title": "litboard.json",
+              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\tool_definitions\\litboard.json",
+              "RelativeDocumentMoniker": "data\\tinkers_waste\\tinkering\\tool_definitions\\litboard.json",
+              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\tool_definitions\\litboard.json",
+              "RelativeToolTip": "data\\tinkers_waste\\tinkering\\tool_definitions\\litboard.json",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAGEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T03:56:54.39Z",
+              "WhenOpened": "2025-12-06T12:25:17.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "backpack.json",
-              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\tinkering\\armor_models\\backpack.json",
-              "RelativeDocumentMoniker": "assets\\tinkers_waste\\tinkering\\armor_models\\backpack.json",
-              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\tinkering\\armor_models\\backpack.json",
-              "RelativeToolTip": "assets\\tinkers_waste\\tinkering\\armor_models\\backpack.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\tool_definitions\\backpack.json",
+              "RelativeDocumentMoniker": "data\\tinkers_waste\\tinkering\\tool_definitions\\backpack.json",
+              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\tool_definitions\\backpack.json",
+              "RelativeToolTip": "data\\tinkers_waste\\tinkering\\tool_definitions\\backpack.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T05:07:50.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "mods.toml",
-              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\META-INF\\mods.toml",
-              "RelativeDocumentMoniker": "META-INF\\mods.toml",
-              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\META-INF\\mods.toml",
-              "RelativeToolTip": "META-INF\\mods.toml",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-27T05:26:15.875Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "neoforge.mods.toml",
-              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\META-INF\\neoforge.mods.toml",
-              "RelativeDocumentMoniker": "META-INF\\neoforge.mods.toml",
-              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\META-INF\\neoforge.mods.toml",
-              "RelativeToolTip": "META-INF\\neoforge.mods.toml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-27T05:26:23.63Z",
+              "WhenOpened": "2025-12-06T12:25:01.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "backpack.json",
-              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\modifiers\\backpack.json",
-              "RelativeDocumentMoniker": "data\\tinkers_waste\\tinkering\\modifiers\\backpack.json",
-              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\modifiers\\backpack.json",
-              "RelativeToolTip": "data\\tinkers_waste\\tinkering\\modifiers\\backpack.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwEAAAAfAAAAAAAAAA==",
+              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\models\\item\\backpack.json",
+              "RelativeDocumentMoniker": "assets\\tinkers_waste\\models\\item\\backpack.json",
+              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\models\\item\\backpack.json",
+              "RelativeToolTip": "assets\\tinkers_waste\\models\\item\\backpack.json",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAFIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T03:50:02.826Z",
+              "WhenOpened": "2025-12-06T11:39:43.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "tinkers_waste.json",
-              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\mantle\\colors\\tinkers_waste.json",
-              "RelativeDocumentMoniker": "assets\\tinkers_waste\\mantle\\colors\\tinkers_waste.json",
-              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\mantle\\colors\\tinkers_waste.json",
-              "RelativeToolTip": "assets\\tinkers_waste\\mantle\\colors\\tinkers_waste.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "firewall.json",
+              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\modifiers\\firewall.json",
+              "RelativeDocumentMoniker": "data\\tinkers_waste\\tinkering\\modifiers\\firewall.json",
+              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\modifiers\\firewall.json",
+              "RelativeToolTip": "data\\tinkers_waste\\tinkering\\modifiers\\firewall.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T08:49:46.643Z",
+              "WhenOpened": "2025-12-05T11:39:02.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "tinkers_waste_armorization.json",
+              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tconstruct\\book\\encyclopedia\\zh_cn\\upgrades\\armor\\tinkers_waste_armorization.json",
+              "RelativeDocumentMoniker": "assets\\tconstruct\\book\\encyclopedia\\zh_cn\\upgrades\\armor\\tinkers_waste_armorization.json",
+              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tconstruct\\book\\encyclopedia\\zh_cn\\upgrades\\armor\\tinkers_waste_armorization.json",
+              "RelativeToolTip": "assets\\tconstruct\\book\\encyclopedia\\zh_cn\\upgrades\\armor\\tinkers_waste_armorization.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-05T11:35:59.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tinkers_waste_backpack_upgrade.json",
+              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tconstruct\\book\\encyclopedia\\zh_cn\\slotless\\armor\\tinkers_waste_backpack_upgrade.json",
+              "RelativeDocumentMoniker": "assets\\tconstruct\\book\\encyclopedia\\zh_cn\\slotless\\armor\\tinkers_waste_backpack_upgrade.json",
+              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tconstruct\\book\\encyclopedia\\zh_cn\\slotless\\armor\\tinkers_waste_backpack_upgrade.json",
+              "RelativeToolTip": "assets\\tconstruct\\book\\encyclopedia\\zh_cn\\slotless\\armor\\tinkers_waste_backpack_upgrade.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-05T11:31:55.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tinkers_waste_backpack.json",
+              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tconstruct\\book\\encyclopedia\\zh_cn\\armor\\tinkers_waste_backpack.json",
+              "RelativeDocumentMoniker": "assets\\tconstruct\\book\\encyclopedia\\zh_cn\\armor\\tinkers_waste_backpack.json",
+              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tconstruct\\book\\encyclopedia\\zh_cn\\armor\\tinkers_waste_backpack.json",
+              "RelativeToolTip": "assets\\tconstruct\\book\\encyclopedia\\zh_cn\\armor\\tinkers_waste_backpack.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-05T11:29:29.391Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "backpack.json",
-              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\tool_definitions\\backpack.json",
-              "RelativeDocumentMoniker": "data\\tinkers_waste\\tinkering\\tool_definitions\\backpack.json",
-              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\tool_definitions\\backpack.json",
-              "RelativeToolTip": "data\\tinkers_waste\\tinkering\\tool_definitions\\backpack.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Title": "tinkers_waste_rod.json",
+              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tconstruct\\book\\encyclopedia\\zh_cn\\tools\\staff\\tinkers_waste_rod.json",
+              "RelativeDocumentMoniker": "assets\\tconstruct\\book\\encyclopedia\\zh_cn\\tools\\staff\\tinkers_waste_rod.json",
+              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tconstruct\\book\\encyclopedia\\zh_cn\\tools\\staff\\tinkers_waste_rod.json",
+              "RelativeToolTip": "assets\\tconstruct\\book\\encyclopedia\\zh_cn\\tools\\staff\\tinkers_waste_rod.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T03:41:22.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "torch.json",
-              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\models\\item\\torch.json",
-              "RelativeDocumentMoniker": "assets\\tinkers_waste\\models\\item\\torch.json",
-              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\models\\item\\torch.json",
-              "RelativeToolTip": "assets\\tinkers_waste\\models\\item\\torch.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T08:13:29.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "broken.json",
-              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\models\\item\\torch\\broken.json",
-              "RelativeDocumentMoniker": "assets\\tinkers_waste\\models\\item\\torch\\broken.json",
-              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\models\\item\\torch\\broken.json",
-              "RelativeToolTip": "assets\\tinkers_waste\\models\\item\\torch\\broken.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T08:13:35.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "blocking.json",
-              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\models\\item\\torch\\blocking.json",
-              "RelativeDocumentMoniker": "assets\\tinkers_waste\\models\\item\\torch\\blocking.json",
-              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\models\\item\\torch\\blocking.json",
-              "RelativeToolTip": "assets\\tinkers_waste\\models\\item\\torch\\blocking.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T08:14:39.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "backpack.json",
-              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\station_layouts\\backpack.json",
-              "RelativeDocumentMoniker": "data\\tinkers_waste\\tinkering\\station_layouts\\backpack.json",
-              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\station_layouts\\backpack.json",
-              "RelativeToolTip": "data\\tinkers_waste\\tinkering\\station_layouts\\backpack.json",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T03:41:08.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "broken.json",
-              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\models\\item\\rod\\broken.json",
-              "RelativeDocumentMoniker": "assets\\tinkers_waste\\models\\item\\rod\\broken.json",
-              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\models\\item\\rod\\broken.json",
-              "RelativeToolTip": "assets\\tinkers_waste\\models\\item\\rod\\broken.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T03:46:44.913Z",
+              "WhenOpened": "2025-12-05T11:26:00.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "rod.json",
-              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\tool_definitions\\rod.json",
-              "RelativeDocumentMoniker": "data\\tinkers_waste\\tinkering\\tool_definitions\\rod.json",
-              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\tool_definitions\\rod.json",
-              "RelativeToolTip": "data\\tinkers_waste\\tinkering\\tool_definitions\\rod.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Title": "tinkers_things_shortbow.json",
+              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinker-Things\\assets\\tconstruct\\book\\encyclopedia\\zh_cn\\tools\\small\\tinkers_things_shortbow.json",
+              "RelativeDocumentMoniker": "..\\Tinker-Things\\assets\\tconstruct\\book\\encyclopedia\\zh_cn\\tools\\small\\tinkers_things_shortbow.json",
+              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinker-Things\\assets\\tconstruct\\book\\encyclopedia\\zh_cn\\tools\\small\\tinkers_things_shortbow.json",
+              "RelativeToolTip": "..\\Tinker-Things\\assets\\tconstruct\\book\\encyclopedia\\zh_cn\\tools\\small\\tinkers_things_shortbow.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-28T08:34:04.854Z",
+              "WhenOpened": "2025-12-05T11:24:36.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "head_unlit.png",
-              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\textures\\item\\tool\\torch\\head_unlit.png",
-              "RelativeDocumentMoniker": "assets\\tinkers_waste\\textures\\item\\tool\\torch\\head_unlit.png",
-              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\textures\\item\\tool\\torch\\head_unlit.png",
-              "RelativeToolTip": "assets\\tinkers_waste\\textures\\item\\tool\\torch\\head_unlit.png",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-01-27T08:08:44.437Z"
+              "DocumentIndex": 7,
+              "Title": "tinkers_waste_torch.json",
+              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tconstruct\\book\\encyclopedia\\zh_cn\\tools\\small\\tinkers_waste_torch.json",
+              "RelativeDocumentMoniker": "assets\\tconstruct\\book\\encyclopedia\\zh_cn\\tools\\small\\tinkers_waste_torch.json",
+              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tconstruct\\book\\encyclopedia\\zh_cn\\tools\\small\\tinkers_waste_torch.json",
+              "RelativeToolTip": "assets\\tconstruct\\book\\encyclopedia\\zh_cn\\tools\\small\\tinkers_waste_torch.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-05T11:21:54.944Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "rod.json",
-              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\models\\item\\rod.json",
-              "RelativeDocumentMoniker": "assets\\tinkers_waste\\models\\item\\rod.json",
-              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\models\\item\\rod.json",
-              "RelativeToolTip": "assets\\tinkers_waste\\models\\item\\rod.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "tinkers_waste_torch.json",
+              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tconstruct\\book\\materials_and_you\\zh_cn\\tools\\tinkers_waste_torch.json",
+              "RelativeDocumentMoniker": "assets\\tconstruct\\book\\materials_and_you\\zh_cn\\tools\\tinkers_waste_torch.json",
+              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tconstruct\\book\\materials_and_you\\zh_cn\\tools\\tinkers_waste_torch.json",
+              "RelativeToolTip": "assets\\tconstruct\\book\\materials_and_you\\zh_cn\\tools\\tinkers_waste_torch.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T03:43:05.946Z",
+              "WhenOpened": "2025-12-05T11:21:33.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "tinkers_waste_rod.json",
+              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tconstruct\\book\\materials_and_you\\zh_cn\\tools\\tinkers_waste_rod.json",
+              "RelativeDocumentMoniker": "assets\\tconstruct\\book\\materials_and_you\\zh_cn\\tools\\tinkers_waste_rod.json",
+              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tconstruct\\book\\materials_and_you\\zh_cn\\tools\\tinkers_waste_rod.json",
+              "RelativeToolTip": "assets\\tconstruct\\book\\materials_and_you\\zh_cn\\tools\\tinkers_waste_rod.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-05T11:21:24.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "blocking.json",
-              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\models\\item\\rod\\blocking.json",
-              "RelativeDocumentMoniker": "assets\\tinkers_waste\\models\\item\\rod\\blocking.json",
-              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\models\\item\\rod\\blocking.json",
-              "RelativeToolTip": "assets\\tinkers_waste\\models\\item\\rod\\blocking.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T03:46:59.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "backpack_level_1.json",
-              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\recipes\\backpack\\backpack_level_1.json",
-              "RelativeDocumentMoniker": "data\\tinkers_waste\\recipes\\backpack\\backpack_level_1.json",
-              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\recipes\\backpack\\backpack_level_1.json",
-              "RelativeToolTip": "data\\tinkers_waste\\recipes\\backpack\\backpack_level_1.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T04:56:17.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "zh_cn.json",
-              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\lang\\zh_cn.json",
-              "RelativeDocumentMoniker": "assets\\tinkers_waste\\lang\\zh_cn.json",
-              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\lang\\zh_cn.json",
-              "RelativeToolTip": "assets\\tinkers_waste\\lang\\zh_cn.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T04:00:41.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "bonus_slots.json",
-              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tconstruct\\tags\\items\\modifiable\\bonus_slots.json",
-              "RelativeDocumentMoniker": "data\\tconstruct\\tags\\items\\modifiable\\bonus_slots.json",
-              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tconstruct\\tags\\items\\modifiable\\bonus_slots.json",
-              "RelativeToolTip": "data\\tconstruct\\tags\\items\\modifiable\\bonus_slots.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T03:59:57.966Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "armorization.json",
-              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\recipes\\backpack\\armorization.json",
-              "RelativeDocumentMoniker": "data\\tinkers_waste\\recipes\\backpack\\armorization.json",
-              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\recipes\\backpack\\armorization.json",
-              "RelativeToolTip": "data\\tinkers_waste\\recipes\\backpack\\armorization.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T03:58:37.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
               "Title": "generator_part_textures.json",
               "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\tinkering\\generator_part_textures.json",
               "RelativeDocumentMoniker": "assets\\tinkers_waste\\tinkering\\generator_part_textures.json",
               "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\tinkering\\generator_part_textures.json",
               "RelativeToolTip": "assets\\tinkers_waste\\tinkering\\generator_part_textures.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T03:56:36.725Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "rod.json",
-              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\station_layouts\\rod.json",
-              "RelativeDocumentMoniker": "data\\tinkers_waste\\tinkering\\station_layouts\\rod.json",
-              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\data\\tinkers_waste\\tinkering\\station_layouts\\rod.json",
-              "RelativeToolTip": "data\\tinkers_waste\\tinkering\\station_layouts\\rod.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T03:46:02.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "backpack.json",
-              "DocumentMoniker": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\models\\item\\backpack.json",
-              "RelativeDocumentMoniker": "assets\\tinkers_waste\\models\\item\\backpack.json",
-              "ToolTip": "I:\\another pc\\m\\.minecraft\\versions\\1.20.1-Forge_47.3.22\\thingpacks\\Tinkers--Waste\\assets\\tinkers_waste\\models\\item\\backpack.json",
-              "RelativeToolTip": "assets\\tinkers_waste\\models\\item\\backpack.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T03:43:02.306Z"
+              "WhenOpened": "2025-12-05T10:13:34.832Z",
+              "EditorCaption": ""
             }
           ]
         }

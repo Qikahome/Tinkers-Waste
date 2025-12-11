@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tinkers_waste:backpack_upgrade",
+  "text": [
+    {
+      "text": "为工匠背包增加升级槽并提升其容量。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "逐级提升",
+    "无需槽位",
+    "每级配方不同"
+  ]
+}

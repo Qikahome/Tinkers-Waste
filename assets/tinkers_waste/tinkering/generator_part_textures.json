@@ -1,0 +1,52 @@
+{
+  "replace": false,
+  "parts": [
+    {
+      "path": "tinkers_waste:item/tool/backpack/backpack_untint",
+      "stat_type": "tconstruct:maille"
+    },
+
+    {
+      "path": "tinkers_waste:item/tool/litboard/plate1",
+      "stat_type": "tconstruct:plating_shield"
+    },
+    {
+      "path": "tinkers_waste:item/tool/litboard/plate2",
+      "stat_type": "tconstruct:plating_shield"
+    },
+    {
+      "path": "tinkers_waste:item/tool/rod/down",
+      "stat_type": "tconstruct:limb"
+    },
+    {
+      "path": "tinkers_waste:item/tool/rod/head",
+      "stat_type": "tconstruct:limb"
+    },
+    {
+      "path": "tinkers_waste:item/tool/rod/head_broken",
+      "stat_type": "tconstruct:limb"
+    },
+    {
+      "path": "tinkers_waste:item/tool/rod/handle",
+      "stat_type": "tconstruct:handle"
+    },
+    {
+      "path": "tinkers_waste:item/tool/rod/handle_broken",
+      "stat_type": "tconstruct:handle"
+    },
+    {
+      "path": "tinkers_waste:item/tool/torch/handle",
+      "stat_type": "tconstruct:limb"
+    },
+    {
+      "path": "tinkers_waste:tinker_armor/backpack/body_armor",
+      "stat_type": "tconstruct:maille",
+      "allow_animated": false
+    },
+    {
+      "path": "tinkers_waste:tinker_armor/backpack/outer_armor",
+      "stat_type": "tconstruct:maille",
+      "allow_animated": false
+    }
+  ]
+}

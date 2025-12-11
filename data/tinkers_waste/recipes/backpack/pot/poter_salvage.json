@@ -1,7 +1,0 @@
-{
-  "type": "tconstruct:modifier_salvage",
-  "modifier": "tinkers_waste:poter",
-  "tools": {
-    "item": "tinkers_waste:pot"
-  }
-}

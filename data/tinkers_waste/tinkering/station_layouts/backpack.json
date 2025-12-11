@@ -1,25 +1,29 @@
 {
   "translation_key": "item.tinkers_waste.backpack",
   "icon": {
-    "item":"tinkers_waste:backpack"
+    "item": "tinkers_waste:backpack",
+    "nbt": {
+      "tic_display": true,
+      "tic_materials": [ "tconstruct:copper", "tconstruct:cobalt"]
+    }
   },
   "sortIndex": 114,
   "input_slots": [
     {
       "filter": {
-        "item": "minecraft:leather"
+        "item": "tconstruct:maille"
       },
-      "icon": "tinkers_waste:leather",
-      "translation_key": "item.minecraft.leather",
+      "icon": "tconstruct:maille",
+      "translation_key": "item.tconstruct.maille",
       "x": 23,
       "y": 29
     },
     {
       "filter": {
-        "item": "minecraft:leather"
+        "item": "tconstruct:maille"
       },
-      "icon": "tinkers_waste:leather",
-      "translation_key": "item.minecraft.leather",
+      "icon": "tconstruct:maille",
+      "translation_key": "item.tconstruct.maille",
       "x": 43,
       "y": 29
     },
