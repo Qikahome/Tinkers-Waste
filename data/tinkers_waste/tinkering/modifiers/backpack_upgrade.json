@@ -21,10 +21,6 @@
       "each_level": 0.2,
       "operation": "multiply_base",
       "stat": "tconstruct:armor"
-    },
-    {
-      "type": "tconstruct:inventory_menu",
-      "on_key": "any"
     }
   ],
   "tooltip_display": "always"

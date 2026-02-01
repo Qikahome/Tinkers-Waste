@@ -7,12 +7,7 @@
     },
     {
       "type": "tconstruct:inventory_menu",
-      "on_key": "any"
-    },
-    {
-      "type": "tconstruct:modifier_slot",
-      "count": -0.9,
-      "name": "upgrades"
+      "on_key": "shift"
     },
     {
       "type": "tconstruct:stat_boost",

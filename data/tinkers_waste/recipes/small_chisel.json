@@ -1,0 +1,39 @@
+{
+  "type": "tconstruct:crafting_shaped_materials",
+  "category": "equipment",
+  "key": {
+    "c": [
+      {
+        "type": "tconstruct:material_value",
+        "material": {
+          "type": "tconstruct:stat_type",
+          "stat_type": "tconstruct:head"
+        },
+        "value": 1.0
+      },
+      {
+        "type": "tconstruct:material",
+        "item": "tconstruct:fake_ingot",
+        "material": {
+          "type": "tconstruct:stat_type",
+          "stat_type": "tconstruct:head"
+        }
+      }
+    ],
+    "s": {
+      "item": "minecraft:stick"
+    },
+    "t": {
+      "item": "tconstruct:pattern"
+    }
+  },
+  "parts": "c",
+  "pattern": [
+    "ct",
+    "s "
+  ],
+  "result": {
+    "item": "tinkers_waste:small_chisel"
+  },
+  "show_notification": true
+}

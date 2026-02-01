@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "tconstruct:no_container",
+      "item": "tconstruct:copper_can"
+    },
+    {
+      "item": "tconstruct:seared_brick"
+    }
+  ],
+  "result": {
+    "item": "tinkers_waste:seared_copper_can"
+  }
+}

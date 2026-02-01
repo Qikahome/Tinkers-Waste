@@ -4,7 +4,7 @@
       "type": "tconstruct:material_stats",
       "primary_part": 0,
       "stat_types": [
-        "tconstruct:plating_shield",
+        "tconstruct:head",
         "tconstruct:plating_shield"
       ]
     },
@@ -12,16 +12,12 @@
       "type": "tconstruct:default_materials",
       "materials": [
         {
-          "type": "tconstruct:random"
+          "type": "tconstruct:random",
+          "allow_hidden": true
         },
         {
-          "type": "tconstruct:random"
-        },
-        {
-          "type": "tconstruct:random"
-        },
-        {
-          "type": "tconstruct:random"
+          "type": "tconstruct:random",
+          "allow_hidden": true
         }
       ]
     },
@@ -30,16 +26,20 @@
       "hooks": [
         "tconstruct:rebalanced_trait"
       ],
-      "material_index": 0,
+      "material_index": 1,
       "stat_type": "tconstruct:plating_shield"
     },
     {
-      "type": "tconstruct:material_traits",
-      "hooks": [
-        "tconstruct:rebalanced_trait"
-      ],
-      "material_index": 1,
-      "stat_type": "tconstruct:plating_shield"
+      "type": "tconstruct:tool_actions",
+      "tool_actions": [
+        "pickaxe_dig"
+      ]
+    },
+    {
+      "type": "tconstruct:is_effective",
+      "predicate_type": "mantle:tag",
+      "tag": "tinkers_waste:mineable/litboard",
+      "ignore_tier": false
     },
     {
       "type": "tconstruct:base_stats",
@@ -51,11 +51,17 @@
       }
     },
     {
+      "type": "tconstruct:multiply_stats",
+      "multipliers": {
+        "tconstruct:durability": 1.5,
+        "tconstruct:mining_speed": 0.7
+      }
+    },
+    {
       "type": "tconstruct:modifier_slots",
       "slots": {
         "abilities": 1,
-        "defense": 2,
-        "upgrades": 2
+        "defense": 2
       }
     },
     {
@@ -79,15 +85,11 @@
         },
         {
           "name": "tconstruct:fiery",
-          "level": 1
-        },
-        {
-          "name": "tinkers_waste:firewall",
-          "level": 1
+          "level": 3
         },
         {
           "name": "tconstruct:fire_protection",
-          "level": 4
+          "level": 3
         }
       ]
     },

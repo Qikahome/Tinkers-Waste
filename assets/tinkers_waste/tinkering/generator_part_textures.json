@@ -5,10 +5,17 @@
       "path": "tinkers_waste:item/tool/backpack/backpack_untint",
       "stat_type": "tconstruct:maille"
     },
-
+    {
+      "path": "tinkers_waste:item/tool/small_chisel/head",
+      "stat_type": "tconstruct:head"
+    },
+    {
+      "path": "tinkers_waste:item/tool/small_chisel/head_broken",
+      "stat_type": "tconstruct:head"
+    },
     {
       "path": "tinkers_waste:item/tool/litboard/plate1",
-      "stat_type": "tconstruct:plating_shield"
+      "stat_type": "tconstruct:head"
     },
     {
       "path": "tinkers_waste:item/tool/litboard/plate2",

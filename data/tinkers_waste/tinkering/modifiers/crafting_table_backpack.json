@@ -1,0 +1,13 @@
+{
+  "level_display": "tconstruct:no_levels",
+  "modules": [
+    {
+      "type": "tconstruct:inventory_slot_menu"
+    },
+    {
+      "type": "tconstruct:volatile_flag",
+      "flag": "tconstruct:crafting_table"
+    }
+  ],
+  "tooltip_display": "always"
+}

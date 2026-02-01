@@ -1,0 +1,6 @@
+{
+  "parent": "tinkers_waste:item/small_chisel",
+  "textures": {
+    "head": "tinkers_waste:item/tool/small_chisel/head_broken"
+  }
+}

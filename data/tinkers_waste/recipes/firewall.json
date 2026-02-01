@@ -1,0 +1,38 @@
+{
+  "type": "tconstruct:modifier",
+  "allow_crystal": true,
+  "check_trait_level": true,
+  "inputs": [
+    {
+      "ingredient": [
+        { "item": "minecraft:brick_wall" },
+        { "item": "tconstruct:seared_bricks_wall" }
+      ]
+    },
+    {
+      "type": "mantle:potion",
+      "item": "minecraft:lingering_potion",
+      "potion": "minecraft:long_fire_resistance"
+    },
+    {
+      "ingredient": [
+        { "item": "minecraft:brick_wall" },
+        { "item": "tconstruct:seared_bricks_wall" }
+      ]
+    },
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "minecraft:magma_cream"
+    }
+  ],
+  "level": 1,
+  "result": "tinkers_waste:firewall",
+  "slots": {
+    "abilities": 1
+  },
+  "tools": {
+    "tag": "tconstruct:modifiable/armor"
+  }
+}

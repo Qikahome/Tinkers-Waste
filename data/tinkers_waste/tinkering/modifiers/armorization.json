@@ -8,7 +8,7 @@
     },
     {
       "type": "tconstruct:stat_boost",
-      "each_level": 5,
+      "each_level": 4,
       "operation": "add",
       "stat": "tconstruct:armor"
     }

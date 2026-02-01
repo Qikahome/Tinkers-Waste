@@ -1,8 +1,7 @@
 {
   "replace": false,
   "values": [
-    "tinkers_waste:torch",
-    "tinkers_waste:rod",
+    "tinkers_waste:litboard",
     "tinkers_waste:small_chisel"
   ]
 }

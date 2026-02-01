@@ -1,0 +1,5 @@
+{
+  "type": "tconstruct:table_filling",
+  "container": "tinkers_waste:seared_copper_can",
+  "fluid_amount": 250
+}

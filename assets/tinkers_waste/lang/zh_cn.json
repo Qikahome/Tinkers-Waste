@@ -2,9 +2,21 @@
   "description.tinkers_waste.pack": "工匠的实用小物件的数据和资源",
   "itemGroup.tinkers_waste.tinkers_waste": "工匠的实用小物件",
 
+  "_comment": "普通物品",
+  "item.tinkers_waste.seared_copper_can": "焦黑铜罐",
+  "item.tinkers_waste.seared_copper_can.tooltip": "可堆叠的流体容器，能够盛装1砖的流体",
+  "item.tinkers_waste.seared_copper_can.contents": "%s：1砖",
 
+  "item.tinkers_waste.dropper": "滴管",
+  "item.tinkers_waste.dropper.tooltip": "可堆叠的流体容器，能够盛装1粒的流体",
+  "item.tinkers_waste.dropper.contents": "%s：1粒",
+
+  "_comment": "工具",
   "item.tinkers_waste.torch": "火把",
   "item.tinkers_waste.torch.description": "火把是一种用于点亮周围的工具。",
+
+  "item.tinkers_waste.small_chisel": "小凿子",
+  "item.tinkers_waste.small_chisel.description": "小凿子具有极高的挖掘速度，但是耐久度极低且无法修理。",
 
   "item.tinkers_waste.backpack": "工匠背包",
   "item.tinkers_waste.backpack.description": "背包是一种用于存储物品的工具。",
@@ -15,7 +27,7 @@
   "item.tinkers_waste.litboard": "流萤障",
   "item.tinkers_waste.litboard.description": "流萤障是一种远古工具，可用于格挡，点亮环境等。",
 
-
+  "_comment": "强化",
   "modifier.tinkers_waste.backpack": "背包",
   "modifier.tinkers_waste.backpack.flavor": "背起你的行囊！",
   "modifier.tinkers_waste.backpack.description": "提供9个储物槽位",
@@ -24,11 +36,25 @@
   "modifier.tinkers_waste.backpack_upgrade.flavor": "更快，更大，更强！",
   "modifier.tinkers_waste.backpack_upgrade.description": "每级提供18个储物槽位和1个升级槽",
 
+  "modifier.tinkers_waste.workbench_backpack": "背包合成台",
+  "modifier.tinkers_waste.workbench_backpack.flavor": "便携！",
+  "modifier.tinkers_waste.workbench_backpack.description": "向背包的物品栏中提供一个物品栏中的合成方格。",
+
+  "modifier.tinkers_waste.crafting_table_backpack": "背包工作台",
+  "modifier.tinkers_waste.crafting_table_backpack.flavor": "便携式全功能工作台！",
+  "modifier.tinkers_waste.crafting_table_backpack.description": "向背包的物品栏中提供一个工作台中的合成方格。",
+
   "modifier.tinkers_waste.armorization": "护甲化",
   "modifier.tinkers_waste.armorization.flavor": "背包是穿在胸甲槽的，所以背包也是胸甲！",
-  "modifier.tinkers_waste.armorization.description": "提供2个防御槽和6点护甲值",
+  "modifier.tinkers_waste.armorization.description": "提供2个防御槽和4点护甲值",
+
+  "modifier.tinkers_waste.forbidden_repair": "无法修复",
+  "modifier.tinkers_waste.forbidden_repair.flavor": "由于刻意的游戏设计，你无法修复此工具。",
+  "modifier.tinkers_waste.forbidden_repair.description": "此工具无法修理，请丢弃它",
 
   "modifier.tinkers_waste.firewall": "防火墙",
   "modifier.tinkers_waste.firewall.flavor": "不是你电脑上用的那种！",
-  "modifier.tinkers_waste.firewall.description": "完全抵抗火焰伤害"
+  "modifier.tinkers_waste.firewall.description": "完全免疫火焰伤害",
+  "modifier.tinkers_waste.firewall.requirements": "“防火墙”需要“火焰保护 IV”作为前置",
+  "modifier.tinkers_waste.firewall.resistance": "火焰免疫"
 }

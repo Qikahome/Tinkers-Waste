@@ -1,0 +1,60 @@
+{
+  "description.tinkers_waste.pack": "Data and resources for Tinker's Useful Items",
+  "itemGroup.tinkers_waste.tinkers_waste": "Tinker's Useful Items",
+
+  "_comment": "普通物品",
+  "item.tinkers_waste.seared_copper_can": "Seared Copper Can",
+  "item.tinkers_waste.seared_copper_can.tooltip": "Stackable container holding 1 brick of fluid",
+  "item.tinkers_waste.seared_copper_can.contents": "%s: 1 brick",
+
+  "item.tinkers_waste.dropper": "Dropper",
+  "item.tinkers_waste.dropper.tooltip": "Stackable container holding 1 nugget of fluid",
+  "item.tinkers_waste.dropper.contents": "%s: 1 nugget",
+
+  "_comment": "工具",
+  "item.tinkers_waste.torch": "Torch",
+  "item.tinkers_waste.torch.description": "A tool used to light up the surrounding area.",
+
+  "item.tinkers_waste.small_chisel": "Small Chisel",
+  "item.tinkers_waste.small_chisel.description": "The small chisel has extremely high mining speed, but very low durability and cannot be repaired.",
+
+  "item.tinkers_waste.backpack": "Tinkerer's Backpack",
+  "item.tinkers_waste.backpack.description": "A tool used for storing items.",
+
+  "item.tinkers_waste.rod": "Long Rod",
+  "item.tinkers_waste.rod.description": "A tool used to extend your reach.\nCan also be used as a staff.",
+
+  "item.tinkers_waste.litboard": "Litboard",
+  "item.tinkers_waste.litboard.description": "An ancient tool that can be used to block attacks and illuminate the surroundings.",
+
+  "_comment": "强化",
+  "modifier.tinkers_waste.backpack": "Backpack",
+  "modifier.tinkers_waste.backpack.flavor": "Carry your gear!",
+  "modifier.tinkers_waste.backpack.description": "Provides 9 storage slots",
+
+  "modifier.tinkers_waste.backpack_upgrade": "Backpack Upgrade",
+  "modifier.tinkers_waste.backpack_upgrade.flavor": "Faster, bigger, better!",
+  "modifier.tinkers_waste.backpack_upgrade.description": "Provides 18 storage slots and 1 upgrade slot per level",
+
+  "modifier.tinkers_waste.workbench_backpack": "Backpack Workbench",
+  "modifier.tinkers_waste.workbench_backpack.flavor": "Convenient!",
+  "modifier.tinkers_waste.workbench_backpack.description": "Provides a crafting grid in the backpack's inventory",
+
+  "modifier.tinkers_waste.crafting_table_backpack": "Backpack Crafting Table",
+  "modifier.tinkers_waste.crafting_table_backpack.flavor": "A full table in your pocket!",
+  "modifier.tinkers_waste.crafting_table_backpack.description": "Provides a full-size crafting grid in the backpack's inventory",
+
+  "modifier.tinkers_waste.armorization": "Armorized",
+  "modifier.tinkers_waste.armorization.flavor": "Backpacks go in the chest slot—so they're chestplates!",
+  "modifier.tinkers_waste.armorization.description": "Provides 2 defense slots and 4 armor points",
+
+  "modifier.tinkers_waste.forbidden_repair": "Forbidden Repair",
+  "modifier.tinkers_waste.forbidden_repair.flavor": "Due to deliberate game design, you cannot repair this tool.",
+  "modifier.tinkers_waste.forbidden_repair.description": "This tool cannot be repaired, please discard it",
+
+  "modifier.tinkers_waste.firewall": "Firewall",
+  "modifier.tinkers_waste.firewall.flavor": "Not the one on your computer!",
+  "modifier.tinkers_waste.firewall.description": "Full immunity to fire damage",
+  "modifier.tinkers_waste.firewall.requirements": "Firewall requires Fire Protection IV as a prerequisite",
+  "modifier.tinkers_waste.firewall.resistance": "Fire Resistance"
+}

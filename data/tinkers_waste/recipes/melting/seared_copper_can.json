@@ -1,0 +1,19 @@
+{
+  "type": "tconstruct:melting",
+  "byproducts": [
+    {
+      "amount": 90,
+      "fluid": "tconstruct:molten_copper"
+    }
+  ],
+  "ingredient": {
+    "type": "tconstruct:no_container",
+    "item": "tinkers_waste:seared_copper_can"
+  },
+  "result": {
+    "amount": 250,
+    "fluid": "tconstruct:seared_stone"
+  },
+  "temperature": 600,
+  "time": 100
+}

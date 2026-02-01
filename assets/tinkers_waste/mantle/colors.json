@@ -3,6 +3,8 @@
     "backpack": "#966510",
     "backpack_upgrade": "#966510",
     "firewall": "#5D342C",
-    "armorization": "#720000"
+    "armorization": "#720000",
+    "crafting_table_backpack": "#AA663A",
+    "workbench_backpack": "#AA663A"
   }
 }

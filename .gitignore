@@ -1,0 +1,56 @@
+# ===================== 开发工具/IDE忽略 =====================
+# Visual Studio 缓存（你的核心需求）
+.vs/
+# Visual Studio Code
+.vscode/
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+tmp/
+
+# ===================== Gradle/构建工具忽略 =====================
+# Gradle 缓存
+.gradle/
+# 构建产物（模组Jar、编译类文件，核心忽略，避免提交大文件）
+build/
+# Gradle运行脚本（部分环境自动生成，无需追踪）
+gradlew.bat
+gradlew
+gradle/
+
+# ===================== 系统/临时文件忽略 =====================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+# Mac/Linux
+.DS_Store
+*.swp
+*.swo
+*~
+# 临时文件
+*.tmp
+*.log
+
+# ===================== MC模组开发专属忽略 =====================
+# 手动打包的Jar包（避免提交）
+*.jar
+# 本地配置文件
+config/
+# 测试用的MC实例
+run/
+# JarJar相关临时文件
+META-INF/jarjar/tmp/
+
+# ===================== 其他自定义忽略（可自行添加） =====================
+# 比如你的本地测试文件、日志文件等
+# xxx/
+# *.log

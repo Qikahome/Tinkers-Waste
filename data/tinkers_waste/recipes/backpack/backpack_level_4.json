@@ -7,6 +7,5 @@
   "tools": { "item": "tinkers_waste:backpack" },
   "allow_crystal": false,
   "result": "tinkers_waste:backpack_upgrade",
-  "level": 4,
-  "slots": { "upgrades": 1 }
+  "level": 4
 }
