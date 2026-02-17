@@ -3,6 +3,10 @@
   "itemGroup.tinkers_waste.tinkers_waste": "工匠的实用小物件",
 
   "_comment": "普通物品",
+  "item.tinkers_waste.hot_water_bucket": "热水桶",
+  "fluid_type.tinkers_waste.hot_water": "热水",
+
+
   "item.tinkers_waste.seared_copper_can": "焦黑铜罐",
   "item.tinkers_waste.seared_copper_can.tooltip": "可堆叠的流体容器，能够盛装1砖的流体",
   "item.tinkers_waste.seared_copper_can.contents": "%s：1砖",

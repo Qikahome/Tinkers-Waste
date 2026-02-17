@@ -3,6 +3,9 @@
   "itemGroup.tinkers_waste.tinkers_waste": "Tinker's Useful Items",
 
   "_comment": "普通物品",
+  "item.tinkers_waste.hot_water_bucket": "Hot Water Bucket",
+  "fluid_type.tinkers_waste.hot_water": "Hot Water",
+
   "item.tinkers_waste.seared_copper_can": "Seared Copper Can",
   "item.tinkers_waste.seared_copper_can.tooltip": "Stackable container holding 1 brick of fluid",
   "item.tinkers_waste.seared_copper_can.contents": "%s: 1 brick",

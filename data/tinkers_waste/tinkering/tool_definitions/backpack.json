@@ -22,6 +22,19 @@
       ]
     },
     {
+      "type": "tconstruct:default_materials",
+      "materials": [
+        {
+          "type": "tconstruct:random",
+          "allow_hidden": true
+        },
+        {
+          "type": "tconstruct:random",
+          "allow_hidden": true
+        }
+      ]
+    },
+    {
       "type": "tconstruct:modifier_slots",
       "slots": {
         "upgrades": 1,

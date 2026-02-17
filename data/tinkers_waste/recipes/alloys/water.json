@@ -1,0 +1,20 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "amount": 1000,
+      "catalyst": true,
+      "fluid": "minecraft:water"
+    },
+    {
+      "amount": 1000,
+      "catalyst": true,
+      "fluid": "minecraft:water"
+    }
+  ],
+  "result": {
+    "amount": 1000,
+    "fluid": "minecraft:water"
+  },
+  "temperature": 1
+}

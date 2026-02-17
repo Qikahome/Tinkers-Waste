@@ -40,7 +40,7 @@
     {
       "type": "tconstruct:is_effective",
       "predicate_type": "mantle:tag",
-      "tag": "minecraft:mineable/pickaxe"
+      "tag": "tinkers_waste:mineable/any"
     },
     {
       "type": "tconstruct:traits",

@@ -6,9 +6,10 @@
       "tic_materials": [ "tconstruct:ui_render#head", "tconstruct:ui_render#handle", "tconstruct:ui_render#extra" ]
     }
   },
-      "after": [ "tconstruct:world" ],
-      "translation_key": "itemGroup.tinkers_waste.tinkers_waste",
+  "after": [ "tconstruct:world" ],
+  "translation_key": "itemGroup.tinkers_waste.tinkers_waste",
   "items": [
+    "tinkers_waste:hot_water_bucket",
     "tinkers_waste:dropper",
     "tinkers_waste:seared_copper_can",
     "tinkers_waste:small_chisel",
@@ -17,4 +18,4 @@
     "tinkers_waste:torch",
     "tinkers_waste:litboard"
   ]
-    }
+}

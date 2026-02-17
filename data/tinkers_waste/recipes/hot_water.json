@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:melting_fuel",
+  "duration": 100,
+  "fluid": {
+    "amount": 10,
+    "fluid": "tinkers_waste:hot_water"
+  },
+  "rate": 10,
+  "temperature": 100
+}
