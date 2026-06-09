@@ -1,0 +1,11 @@
+{
+  "type": "jsonmore:fluid_tank",
+  "capacity": 27360,
+  "map_color": "terracotta_brown",
+  "explosion_resistance": 1200,
+  "destroy_time": 30.0,
+  "sound_type": "basalt",
+  "item": {
+    "type": "jsonmore:fluid_tank"
+  }
+}

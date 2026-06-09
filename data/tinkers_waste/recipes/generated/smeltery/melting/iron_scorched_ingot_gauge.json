@@ -1,0 +1,40 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "type": "jsonmore:condition",
+    "condition": {
+      "type": "forge:or",
+      "values": [
+        {
+          "type": "jsonmore:gamerule",
+          "rule": "tinkers_waste.enable_extended_tanks"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "extended_storage"
+        }
+      ]
+    },
+    "ingredient": {
+      "type": "tconstruct:no_container",
+      "item": "tinkers_waste:iron_scorched_ingot_gauge"
+    },
+    "message": "tinkers_waste.recipe.disabled"
+  },
+  "result": {
+    "amount": 720,
+    "fluid": "tconstruct:molten_iron"
+  },
+  "byproducts": [
+    {
+      "amount": 1000,
+      "fluid": "tconstruct:scorched_stone"
+    },
+    {
+      "amount": 500,
+      "fluid": "tconstruct:molten_quartz"
+    }
+  ],
+  "temperature": 800,
+  "time": 180
+}

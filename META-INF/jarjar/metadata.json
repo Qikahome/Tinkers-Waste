@@ -7,9 +7,9 @@
       },
       "version": {
         "range": "*",
-        "artifactVersion": "1.0.0"
+        "artifactVersion": "1.2.1"
       },
-      "path": "META-INF/jarjar/jsonmore-1.0.0.jar"
+      "path": "META-INF/jarjar/jsonmore-1.2.1.jar"
     }
   ]
 }

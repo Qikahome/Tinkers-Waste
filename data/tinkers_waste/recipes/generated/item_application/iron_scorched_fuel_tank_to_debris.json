@@ -1,0 +1,26 @@
+{
+  "type": "jsonmore:item_application",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extended_storage"
+    }
+  ],
+  "block": {
+    "type": "jsonmore:nbt_copy",
+    "ingredient": {
+      "item": "tinkers_waste:iron_scorched_fuel_tank"
+    },
+    "mode": "REPLACE"
+  },
+  "tool": {
+    "item": "extended_storage:iron_debris_chest_upgrade"
+  },
+  "result": {
+    "item": "tinkers_waste:debris_scorched_fuel_tank"
+  },
+  "drop_container": false,
+  "keep_block_state": true,
+  "update_block": false,
+  "sneaking": true
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "type": "jsonmore:condition",
+    "condition": {
+      "type": "forge:or",
+      "values": [
+        {
+          "type": "jsonmore:gamerule",
+          "rule": "tinkers_waste.enable_extended_tanks"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "extended_storage"
+        }
+      ]
+    },
+    "ingredient": {
+      "item": "tinkers_waste:diamond_scorched_fuel_gauge"
+    },
+    "message": "tinkers_waste.recipe.disabled"
+  },
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "result": {
+    "item": "tinkers_waste:netherite_scorched_fuel_gauge"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  }
+}

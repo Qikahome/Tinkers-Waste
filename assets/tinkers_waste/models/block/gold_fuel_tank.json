@@ -1,0 +1,8 @@
+{
+  "parent": "tinkers_waste:block/template/tank_knob_with_trim",
+  "textures": {
+    "top": "tconstruct:block/smeltery/tank/tank_top",
+    "side": "tconstruct:block/smeltery/tank/fuel_tank",
+    "trim": "tinkers_waste:block/gold_tank_trim"
+  }
+}

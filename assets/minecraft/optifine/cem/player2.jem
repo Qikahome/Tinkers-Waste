@@ -1,0 +1,102 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"part": "body",
+			"attach": true,
+			"submodels": [
+				{
+					"id": "hat",
+					"invertAxis": "xy",
+					"translate": [0, 18, 7],
+					"texture": "tinkers_waste:item/tool/backpack/backpack_untint.png",
+					"textureSize": [32, 32],
+					"boxes": [
+						{
+							"coordinates": [-5, 6, -2.6, 10, 1, 4.6],
+							"uvNorth": [31, 29.6, 31, 29.6],
+							"uvEast": [15, 28, 11, 29],
+							"uvSouth": [31, 30, 31, 30.6],
+							"uvWest": [1, 28, 5, 29],
+							"uvUp": [13, 31, 3, 27],
+							"uvDown": [13, 27, 3, 31]
+						},
+						{
+							"coordinates": [-5, 5.5, 2.88, 10, 1, 1],
+							"uvNorth": [19, 16, 29, 17],
+							"uvEast": [29, 16, 30, 17],
+							"uvSouth": [19, 16, 29, 17],
+							"uvWest": [18, 16, 19, 17],
+							"uvUp": [19, 16, 29, 17],
+							"uvDown": [19, 16, 29, 17]
+						},
+						{
+							"coordinates": [-4.99, 5.1, 2.63, 9.98, 1, 1],
+							"uvNorth": [19, 17, 29, 18],
+							"uvEast": [29, 17, 30, 18],
+							"uvSouth": [19, 17, 29, 18],
+							"uvWest": [18, 17, 19, 18],
+							"uvUp": [19, 17, 28.98, 18],
+							"uvDown": [19, 17, 29, 18]
+						},
+						{
+							"coordinates": [-4.99, 6, 2, 9.98, 1, 1],
+							"uvNorth": [3, 31, 12.98, 32],
+							"uvEast": [13, 31, 14, 32],
+							"uvSouth": [3, 31, 13, 32],
+							"uvWest": [2, 31, 3, 32],
+							"uvUp": [3, 31, 13, 32],
+							"uvDown": [3, 31, 13, 32]
+						},
+						{
+							"coordinates": [-4.99, 5, -5, 9.98, 1, 2.6],
+							"uvNorth": [31, 0, 32, 1],
+							"uvEast": [14, 3, 16, 4],
+							"uvSouth": [20, 20.6, 20, 21.6],
+							"uvWest": [2, 3, 0, 4],
+							"uvUp": [13, 2, 3, 0],
+							"uvDown": [32, 0, 31, 1]
+						},
+						{
+							"coordinates": [-5, -7, 3, 10, 12, 1],
+							"uvNorth": [29, 20, 19, 32],
+							"uvEast": [29, 19, 30, 31],
+							"uvSouth": [19, 19, 29, 31],
+							"uvWest": [18, 19, 19, 31],
+							"uvUp": [29, 19, 19, 18],
+							"uvDown": [29, 31, 19, 32]
+						},
+						{
+							"coordinates": [-5, -8, -5, 10, 14, 7],
+							"uvNorth": [3, 2, 13, 16],
+							"uvEast": [20, 2, 13, 16],
+							"uvSouth": [3, 2, 13, 16],
+							"uvWest": [13, 2, 20, 16],
+							"uvUp": [32, 1, 31, 0],
+							"uvDown": [13, 23, 3, 16]
+						}
+					]
+				},
+				{
+					"id": "lock",
+					"invertAxis": "xy",
+					"translate": [-6, 11, 1],
+					"texture": "tconstruct:block/smeltery/seared/stone.png",
+					"textureSize": [32, 32],
+					"boxes": [
+						{
+							"coordinates": [5, 1, 8, 2, 2, 3],
+							"uvNorth": [3, 3, 5, 5],
+							"uvEast": [0, 3, 3, 5],
+							"uvSouth": [8, 3, 10, 5],
+							"uvWest": [5, 3, 8, 5],
+							"uvUp": [10, 3, 8, 0],
+							"uvDown": [5, 8, 3, 5]
+						}
+					]
+				}
+			]
+		}
+	]
+}

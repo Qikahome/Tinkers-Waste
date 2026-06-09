@@ -1,0 +1,26 @@
+{
+  "type": "jsonmore:item_application",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "extended_storage"
+    }
+  ],
+  "block": {
+    "type": "jsonmore:nbt_copy",
+    "ingredient": {
+      "item": "tinkers_waste:debris_scorched_ingot_gauge"
+    },
+    "mode": "REPLACE"
+  },
+  "tool": {
+    "item": "extended_storage:debris_netherite_chest_upgrade"
+  },
+  "result": {
+    "item": "tinkers_waste:netherite_scorched_ingot_gauge"
+  },
+  "drop_container": false,
+  "keep_block_state": true,
+  "update_block": false,
+  "sneaking": true
+}

@@ -1,0 +1,40 @@
+{
+  "type": "jsonmore:shaped_consuming",
+  "pattern": [
+    "###",
+    "#*#",
+    "###"
+  ],
+  "key": {
+    "*": {
+      "type": "jsonmore:condition",
+      "condition": {
+        "type": "forge:or",
+        "values": [
+          {
+            "type": "jsonmore:gamerule",
+            "rule": "tinkers_waste.enable_extended_tanks"
+          },
+          {
+            "type": "forge:mod_loaded",
+            "modid": "extended_storage"
+          }
+        ]
+      },
+      "ingredient": {
+        "type": "jsonmore:nbt_copy",
+        "ingredient": {
+          "item": "tinkers_waste:iron_ingot_tank"
+        },
+        "mode": "REPLACE"
+      },
+      "message": "tinkers_waste.recipe.disabled"
+    },
+    "#": {
+      "tag": "forge:ingots/gold"
+    }
+  },
+  "result": {
+    "item": "tinkers_waste:gold_ingot_tank"
+  }
+}
