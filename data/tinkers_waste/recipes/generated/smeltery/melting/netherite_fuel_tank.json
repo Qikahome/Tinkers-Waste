@@ -27,7 +27,7 @@
   },
   "byproducts": [
     {
-      "amount": 400,
+      "amount": 1100,
       "fluid": "tconstruct:molten_diamond"
     },
     {

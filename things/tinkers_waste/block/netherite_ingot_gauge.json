@@ -6,6 +6,7 @@
   "destroy_time": 50.0,
   "sound_type": "metal",
   "item": {
-    "type": "jsonmore:fluid_tank"
+    "type": "jsonmore:fluid_tank",
+    "fire_resistant": true
   }
 }

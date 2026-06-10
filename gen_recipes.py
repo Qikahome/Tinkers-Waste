@@ -66,7 +66,7 @@ TIER_METALS = {
     "gold":      {"byproducts": [(720, "tconstruct:molten_gold"), (720, "tconstruct:molten_iron")], "temp": 700,  "time": 152},
     "diamond":   {"byproducts": [(400, "tconstruct:molten_diamond"), (720, "tconstruct:molten_gold"), (720, "tconstruct:molten_iron")], "temp": 1450, "time": 200},
     "debris":    {"byproducts": [(90, "tconstruct:molten_debris"), (400, "tconstruct:molten_diamond"), (720, "tconstruct:molten_gold"), (720, "tconstruct:molten_iron")], "temp": 1175, "time": 200},
-    "netherite": {"byproducts": [(90, "tconstruct:molten_netherite"), (400, "tconstruct:molten_diamond"), (720, "tconstruct:molten_gold"), (720, "tconstruct:molten_iron")], "temp": 1250, "time": 280},
+    "netherite": {"byproducts": [(90, "tconstruct:molten_netherite"), (1100, "tconstruct:molten_diamond"), (720, "tconstruct:molten_gold"), (720, "tconstruct:molten_iron")], "temp": 1250, "time": 280},
 }
 
 TIERS = ["wood", "iron", "gold", "diamond", "debris", "netherite"]
