@@ -1,7 +1,7 @@
 {
   "tool": "tinkers_waste:rod",
   "text": [
-    { "text": "长棍是一种用于增加触及距离的手杖。" },
+    { "text": "长棍是一种用于增加触及距离的手杖。" }
   ],
   "properties": [
     "1.0 攻击速度",

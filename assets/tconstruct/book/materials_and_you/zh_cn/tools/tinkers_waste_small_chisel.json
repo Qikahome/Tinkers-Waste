@@ -1,0 +1,15 @@
+{
+  "tool": "tinkers_waste:small_chisel",
+  "text": [
+    { "text": "小凿子是一种极其锋利的工具，能以极快的速度挖掘石材。" },
+    {
+      "text": "但它的耐久度非常低，且无法修理。请谨慎使用。",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "极高的挖掘速度",
+    "极低的耐久度",
+    "无法修理"
+  ]
+}

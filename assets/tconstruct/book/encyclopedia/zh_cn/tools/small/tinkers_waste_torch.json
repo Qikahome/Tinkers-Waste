@@ -1,7 +1,7 @@
 {
   "tool": "tinkers_waste:torch",
   "text": [
-    { "text": "工匠火把是一种基于材料的火把，免于使用过多煤炭。" }
+    { "text": "工匠火把是一种基于材料的火把，免于使用过多煤炭。" },
     {
       "text": "亦可以用作手杖。",
       "paragraph": true

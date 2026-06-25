@@ -9,6 +9,26 @@
       "type": "tconstruct:material",
       "index": 1,
       "prefix": "tinkers_waste:backpack/body_"
+    },
+    {
+      "type": "qikas_tconlib:item_model",
+      "attach": "body",
+      "transform": {
+        "rotation": {
+          "axis": "z",
+          "angle": 180
+        },
+        "scale": [
+          0.8,
+          0.8,
+          0.8
+        ],
+        "translation": [
+          0,
+          0.27,
+          0.45
+        ]
+      }
     }
   ]
 }

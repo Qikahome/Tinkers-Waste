@@ -5,6 +5,7 @@
   "explosion_resistance": 1200,
   "destroy_time": 50.0,
   "sound_type": "metal",
+  "push_reaction": "destroy",
   "item": {
     "type": "jsonmore:fluid_tank",
     "fire_resistant": true

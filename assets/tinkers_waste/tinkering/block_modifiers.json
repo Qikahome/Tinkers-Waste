@@ -1,0 +1,26 @@
+{
+    "tinkers_waste:backpack": {
+        "tconstruct:tank": [
+            {
+                "model": "tinkers_waste:item/backpack/modifier/tank",
+                "transform": {
+                    "translation": [
+                        0.4375,
+                        0,
+                        0
+                    ]
+                }
+            },
+            {
+                "model": "tinkers_waste:item/backpack/modifier/tank",
+                "transform": {
+                    "translation": [
+                        -0.4375,
+                        0,
+                        0
+                    ]
+                }
+            }
+        ]
+    }
+}
