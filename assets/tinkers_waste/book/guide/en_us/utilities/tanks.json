@@ -1,0 +1,61 @@
+{
+  "title": "Advanced Tanks",
+  "item": [
+    "tinkers_waste:iron_fuel_tank",
+    "tinkers_waste:iron_fuel_gauge",
+    "tinkers_waste:iron_ingot_tank",
+    "tinkers_waste:iron_ingot_gauge",
+    "tinkers_waste:iron_scorched_fuel_tank",
+    "tinkers_waste:iron_scorched_fuel_gauge",
+    "tinkers_waste:iron_scorched_ingot_tank",
+    "tinkers_waste:iron_scorched_ingot_gauge",
+    "tinkers_waste:gold_fuel_tank",
+    "tinkers_waste:gold_fuel_gauge",
+    "tinkers_waste:gold_ingot_tank",
+    "tinkers_waste:gold_ingot_gauge",
+    "tinkers_waste:gold_scorched_fuel_tank",
+    "tinkers_waste:gold_scorched_fuel_gauge",
+    "tinkers_waste:gold_scorched_ingot_tank",
+    "tinkers_waste:gold_scorched_ingot_gauge",
+    "tinkers_waste:diamond_fuel_tank",
+    "tinkers_waste:diamond_fuel_gauge",
+    "tinkers_waste:diamond_ingot_tank",
+    "tinkers_waste:diamond_ingot_gauge",
+    "tinkers_waste:diamond_scorched_fuel_tank",
+    "tinkers_waste:diamond_scorched_fuel_gauge",
+    "tinkers_waste:diamond_scorched_ingot_tank",
+    "tinkers_waste:diamond_scorched_ingot_gauge",
+    "tinkers_waste:debris_fuel_tank",
+    "tinkers_waste:debris_fuel_gauge",
+    "tinkers_waste:debris_ingot_tank",
+    "tinkers_waste:debris_ingot_gauge",
+    "tinkers_waste:debris_scorched_fuel_tank",
+    "tinkers_waste:debris_scorched_fuel_gauge",
+    "tinkers_waste:debris_scorched_ingot_tank",
+    "tinkers_waste:debris_scorched_ingot_gauge",
+    "tinkers_waste:netherite_fuel_tank",
+    "tinkers_waste:netherite_fuel_gauge",
+    "tinkers_waste:netherite_ingot_tank",
+    "tinkers_waste:netherite_ingot_gauge",
+    "tinkers_waste:netherite_scorched_fuel_tank",
+    "tinkers_waste:netherite_scorched_fuel_gauge",
+    "tinkers_waste:netherite_scorched_ingot_tank",
+    "tinkers_waste:netherite_scorched_ingot_gauge"
+  ],
+  "text": [
+    {
+      "text": "A family of seared and scorched tanks forged from iron, gold, diamond, debris and netherite, with capacities far beyond ordinary tanks. Ingot tanks hold molten metal, fuel tanks hold fuel, and gauges display their contents."
+    },
+    {
+      "text": "These tanks require Extended Storage to be installed, or the gamerule /gamerule tinkers_waste.enable_extended_tanks true to be set, in order to be crafted.",
+      "paragraph": true
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "For a great smeltery, you need a great tank.",
+      "paragraph": true
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tool": "tinkers_waste:rod",
+  "text": [
+    { "text": "The long rod is a walking staff used to extend your reach." }
+  ],
+  "properties": [
+    "1.0 Attack Speed",
+    "1.0 Draw Speed",
+    "100% Velocity",
+    "0.75 Accuracy",
+    "+2 Block Reach",
+    "+2 Entity Reach"
+  ]
+}

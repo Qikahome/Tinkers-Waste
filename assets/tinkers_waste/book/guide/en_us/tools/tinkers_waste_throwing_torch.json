@@ -1,0 +1,19 @@
+{
+  "tool": "tinkers_waste:throwing_torch",
+  "text": [
+    {
+      "text": "The throwing torch is a consumable projectile that automatically sticks into the ground where it lands, lighting up the area. It makes a fine decoration."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "It can also serve as a one-use ranged weapon, though its stats leave much to be desired.",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "Throwable",
+    "Lights up where it lands"
+  ]
+}

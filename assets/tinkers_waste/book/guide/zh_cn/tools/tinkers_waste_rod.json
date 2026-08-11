@@ -1,0 +1,19 @@
+{
+  "tool": "tinkers_waste:rod",
+  "text": [
+    {
+      "text": "长棍只是一根很长的棍子，能够增加触及距离。"
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "也可以用作手杖。",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "增加触及距离",
+    "额外的“击退”强化"
+  ]
+}

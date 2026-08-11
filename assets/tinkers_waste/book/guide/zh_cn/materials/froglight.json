@@ -1,0 +1,20 @@
+{
+  "title": "蛙明灯",
+  "item": [
+    "minecraft:verdant_froglight",
+    "minecraft:ochre_froglight",
+    "minecraft:pearlescent_froglight"
+  ],
+  "text": [
+    {
+      "text": "蛙明灯是最高级的火把材料，共有三种颜色：青翠、赭黄与珠光。青蛙吞噬小型岩浆怪后便会掉落蛙明灯。蛙明灯火把自带黏液覆层与光合强化，能发出满级的亮光。"
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "呱呱呱。",
+      "paragraph": true
+    }
+  ]
+}

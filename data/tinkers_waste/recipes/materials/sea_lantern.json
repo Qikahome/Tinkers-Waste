@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "minecraft:sea_lantern"
+  },
+  "material": "tinkers_waste:sea_lantern",
+  "needed": 1,
+  "value": 1
+}

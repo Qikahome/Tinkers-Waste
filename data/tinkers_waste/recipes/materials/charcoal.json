@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "minecraft:charcoal"
+  },
+  "material": "tinkers_waste:coal#charcoal",
+  "needed": 1,
+  "value": 1
+}

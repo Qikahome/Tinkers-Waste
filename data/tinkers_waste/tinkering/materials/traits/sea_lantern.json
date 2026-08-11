@@ -1,0 +1,9 @@
+{
+  "perStat": {
+    "tinkers_waste:torch_head": [
+      { "name": "tinkers_waste:light_ammo", "level": 15 },
+      { "name": "tconstruct:fins_ammo", "level": 1 },
+      { "name": "tinkers_waste:waterproof", "level": 1 }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Materials",
+  "subText": "These luminous materials can all be used to craft torch heads. From common coal to rare froglight, each has its own merits.",
+  "operations": [
+    {
+      "before": "coal",
+      "action": "add_group",
+      "data": "Basic Materials"
+    },
+    {
+      "before": "sea_lantern",
+      "action": "add_group",
+      "data": "Rare Luminous Materials"
+    }
+  ]
+}

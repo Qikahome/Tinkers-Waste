@@ -40,6 +40,13 @@
         "upgrades": 1,
         "abilities": 1
       }
+    },
+    {
+      "type": "tconstruct:material_name",
+      "filter": "all"
+    },
+    {
+      "type": "tconstruct:dual_option_interaction"
     }
   ]
 }

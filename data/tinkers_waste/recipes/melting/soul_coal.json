@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "tinkers_waste:soul_coal"
+  },
+  "result": {
+    "amount": 1000,
+    "fluid": "tconstruct:liquid_soul"
+  },
+  "temperature": 400,
+  "time": 69
+}

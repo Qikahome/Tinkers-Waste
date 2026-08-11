@@ -1,0 +1,21 @@
+{
+  "level_display": "tconstruct:no_levels",
+  "modules": [
+    {
+      "type": "tconstruct:trait",
+      "fixed_level": false,
+      "level": 1,
+      "name": "tinkers_waste:washable",
+      "tool": {
+        "type": "tconstruct:has_modifier",
+        "modifier": {
+          "type": "tconstruct:single",
+          "modifier": "tinkers_waste:waterproof"
+        },
+        "level": 0,
+        "check": "all"
+      }
+    }
+  ],
+  "tooltip_display": "never"
+}

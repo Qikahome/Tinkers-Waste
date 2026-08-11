@@ -1,0 +1,12 @@
+{
+  "tool": "tinkers_waste:small_chisel",
+  "text": [
+    { "text": "The small chisel has extremely high mining speed, designed for quickly mining stone." },
+    { "text": "Its durability is very low, and it carries the Forbidden Repair trait—once broken, it's done for.", "paragraph": true }
+  ],
+  "properties": [
+    "+0.5 Attack Damage",
+    "1.6 Attack Speed",
+    "Puncturing I"
+  ]
+}

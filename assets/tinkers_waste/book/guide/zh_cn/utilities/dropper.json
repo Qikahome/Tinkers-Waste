@@ -1,0 +1,18 @@
+{
+  "title": "滴管",
+  "item": [
+    "tinkers_waste:dropper"
+  ],
+  "text": [
+    {
+      "text": "滴管是一种可堆叠的流体容器，能够盛装 1 粒的流体。小巧便携，适合少量携带熔融金属。"
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "一滴，就够了。",
+      "paragraph": true
+    }
+  ]
+}

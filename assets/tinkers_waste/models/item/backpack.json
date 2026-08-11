@@ -5,7 +5,7 @@
 		32,
 		32
 	],
-	"render_type": "translucent",
+	"render_type": "qikas_tconlib:item_unsorted_translucent",
 	"textures": {
 		"missing": "tconstruct:block/smeltery/seared/stone",
 		"hat": "tinkers_waste:item/tool/backpack/backpack_untint",
@@ -1080,6 +1080,12 @@
 				10,
 				11
 			]
+		}
+	],
+	"overrides": [
+		{
+			"predicate": { "qikas_tconlib:placed": 1 },
+			"model": "tinkers_waste:item/backpack/placed"
 		}
 	]
 }

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tinkers_waste:item/torch_head_gold_cast"
+  }
+}

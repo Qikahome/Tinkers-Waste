@@ -1,0 +1,16 @@
+{
+  "title": "材料",
+  "subText": "这些发光材料都能用来制作火把头。从随处可见的煤炭，到稀有的蛙明灯，各有各的妙处。",
+  "operations": [
+    {
+      "before": "coal",
+      "action": "add_group",
+      "data": "基础材料"
+    },
+    {
+      "before": "sea_lantern",
+      "action": "add_group",
+      "data": "稀有发光材料"
+    }
+  ]
+}

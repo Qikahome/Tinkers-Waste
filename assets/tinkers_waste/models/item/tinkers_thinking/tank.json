@@ -1,0 +1,9 @@
+{
+	"elements": [ ],
+	"loader": "qikas_tconlib:tank_modifier",
+	"fluid": {
+		"from": [ 1.9, 1.9, 1.9 ],
+		"to": [ 14.1, 14, 14.1 ],
+		"increments": 10
+	}
+}

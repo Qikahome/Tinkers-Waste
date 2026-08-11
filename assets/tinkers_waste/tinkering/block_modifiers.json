@@ -22,5 +22,6 @@
                 }
             }
         ]
-    }
+    },
+    "tinkers_waste:tinkers_thinking_bucket": { "tconstruct:tank_handler": "tinkers_waste:item/tinkers_thinking/tank" }
 }

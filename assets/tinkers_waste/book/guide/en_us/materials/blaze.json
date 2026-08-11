@@ -1,0 +1,18 @@
+{
+  "title": "Blaze Rod",
+  "item": [
+    "minecraft:blaze_rod"
+  ],
+  "text": [
+    {
+      "text": "Blaze rods come from blazes in Nether fortresses. Blaze rod torch heads glow at full brightness and come with Fiery, igniting targets on hit."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Burn everything.",
+      "paragraph": true
+    }
+  ]
+}

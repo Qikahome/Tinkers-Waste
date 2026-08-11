@@ -1,0 +1,13 @@
+{
+  "level_display": "tconstruct:no_levels",
+  "modules": [
+    {
+      "type":"qikas_tconlib:placing",
+      "require_sneaking": true
+    },
+    {
+      "type": "qikas_tconlib:placed_light_tank"
+    }
+  ],
+  "tooltip_display": "always"
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "name": "intro",
+    "data": "sections/introduction.json",
+    "icon": {
+      "item": {
+        "type": "forge:nbt",
+        "item": "tinkers_waste:torch",
+        "nbt": {
+          "tic_display": true,
+          "tic_materials": [ "tconstruct:ui_render#handle", "tinkers_waste:coal" ]
+        }
+      }
+    }
+  },
+  {
+    "name": "materials",
+    "data": "sections/materials.json",
+    "icon": {
+      "item": "minecraft:coal"
+    }
+  },
+  {
+    "name": "tools",
+    "data": "no-load",
+    "extraData": {
+      "tconstruct:load_tools": { "tag": "tinkers_waste:book/tools", "path": "tools", "sort": false }
+    },
+    "icon": {
+      "item": {
+        "type": "forge:nbt",
+        "item": "tinkers_waste:litboard",
+        "nbt": {
+          "tic_display": true,
+          "tic_materials": [ "tconstruct:ui_render#head", "tinkers_waste:froglight" ]
+        }
+      }
+    }
+  },
+  {
+    "name": "utilities",
+    "data": "sections/utilities.json",
+    "icon": {
+      "item": "tinkers_waste:dropper"
+    }
+  },
+  {
+    "name": "modifiers",
+    "data": "no-load",
+    "extraData": {
+      "tconstruct:load_modifiers": { "tag": "tinkers_waste:book", "path": "modifiers", "sort": false }
+    },
+    "icon": {
+      "item": "minecraft:clock"
+    }
+  }
+]

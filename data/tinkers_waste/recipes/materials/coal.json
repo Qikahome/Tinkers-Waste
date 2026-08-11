@@ -1,0 +1,15 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "type": "forge:difference",
+    "base": {
+      "tag": "minecraft:coals"
+    },
+    "subtracted": {
+      "item": "minecraft:charcoal"
+    }
+  },
+  "material": "tinkers_waste:coal",
+  "needed": 1,
+  "value": 1
+}

@@ -1,0 +1,15 @@
+{
+  "tool": "tinkers_waste:small_chisel",
+  "text": [
+    { "text": "The small chisel is an extremely sharp tool, able to mine stone at incredible speeds." },
+    {
+      "text": "But its durability is very low, and it cannot be repaired. Use with care.",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "Extremely high mining speed",
+    "Very low durability",
+    "Cannot be repaired"
+  ]
+}

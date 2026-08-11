@@ -1,0 +1,39 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default-tool",
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [ 0, 0, 0 ],
+      "translation": [ 0, 3, 1 ],
+      "scale": [ 0.55, 0.55, 0.55 ]
+    }
+  },
+  "textures": {
+    "head": "tinkers_waste:item/tool/throwing_torch/head",
+    "handle": "tinkers_waste:item/tool/throwing_torch/handle"
+  },
+  "parts": [
+    {
+      "name": "handle",
+      "index": 0
+    },
+    {
+      "name": "head",
+      "index": 1
+    }
+  ],
+  "overrides": [
+    {
+      "predicate": { "qikas_tconlib:placed": 1 },
+      "model": "tinkers_waste:item/throwing_torch/wall"
+    },
+    {
+      "predicate": { "qikas_tconlib:placed": 2 },
+      "model": "tinkers_waste:item/throwing_torch/ground"
+    },
+    {
+      "predicate": { "qikas_tconlib:placed": 3 },
+      "model": "tinkers_waste:item/throwing_torch/ground"
+    }
+  ]
+}

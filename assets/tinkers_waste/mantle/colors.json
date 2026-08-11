@@ -5,6 +5,33 @@
     "firewall": "#5D342C",
     "armorization": "#720000",
     "crafting_table_backpack": "#AA663A",
-    "workbench_backpack": "#AA663A"
+    "workbench_backpack": "#AA663A",
+    "placing": "#AA663A",
+    "tick": "#FFD700",
+    "forbidden_repair": "#FF5555",
+    "light": "#FFFFAA",
+    "light_ammo": "#FFFFAA",
+    "overlight": "#A0D39B",
+    "overlight_ammo": "#A0D39B",
+    "overlight_melee": "#A0D39B",
+    "overburn_melee": "#B80000",
+    "overburn_ammo": "#B80000",
+    "torch": "#FFFFAA",
+    "reburn": "#953300",
+    "spreading_flame": "#953300",
+    "washable": "#66CCFF",
+    "washable_provider": "#66CCFF",
+    "waterproof": "#66CCFF"
+  },
+  "material.tinkers_waste": {
+    "coal": "#2E2E2E",
+    "coal.charcoal": "#423B2F",
+    "sea_lantern": "#91C2AC",
+    "froglight": "#A0D39B",
+    "froglight.verdant": "#A0D39B",
+    "froglight.ochre": "#E9CE86",
+    "froglight.pearlescent": "#D4BFC8",
+    "soul_coal": "#13AFB3",
+    "shroomlight": "#FE8738"
   }
 }

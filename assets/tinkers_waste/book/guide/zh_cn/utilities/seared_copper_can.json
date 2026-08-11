@@ -1,0 +1,18 @@
+{
+  "title": "焦黑铜罐",
+  "item": [
+    "tinkers_waste:seared_copper_can"
+  ],
+  "text": [
+    {
+      "text": "焦黑铜罐是一种可堆叠的流体容器，能够盛装 1 砖的流体。比滴管能装得多，是随身携带流体的好选择。"
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "一砖，不多不少。",
+      "paragraph": true
+    }
+  ]
+}

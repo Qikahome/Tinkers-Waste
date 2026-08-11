@@ -1,0 +1,9 @@
+{
+  "default": [ { "name": "qikas_tconlib:soul_fiery", "level": 1 } ],
+  "perStat": {
+    "tinkers_waste:torch_head": [
+      { "name": "tinkers_waste:light_ammo", "level": 10 },
+      { "name": "qikas_tconlib:soul_fiery", "level": 1 }
+    ]
+  }
+}

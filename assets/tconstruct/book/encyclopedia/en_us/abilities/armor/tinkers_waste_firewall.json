@@ -1,0 +1,18 @@
+{
+  "modifier_id": "tinkers_waste:firewall",
+  "text": [
+    {
+      "text": "Full immunity to fire damage. Swim through lava with ease."
+    },
+    {
+      "text": "Requires Fire Protection IV as a prerequisite.",
+      "paragraph": true
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Max 1 Level",
+    "Requires 1 Ability Slot",
+    "Requires Fire Protection IV"
+  ]
+}

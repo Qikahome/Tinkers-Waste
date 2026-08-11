@@ -1,8 +1,12 @@
 {
   "description.tinkers_waste.pack": "工匠的实用小物件的数据和资源",
   "itemGroup.tinkers_waste.tinkers_waste": "工匠的实用小物件",
+  "itemGroup.tinkers_waste.materials": "工匠的实用小物件 | 材料",
+  "itemGroup.tinkers_waste.tools": "工匠的实用小物件 | 工具",
+  "itemGroup.tinkers_waste.utilities": "工匠的实用小物件 | 实用",
 
   "_comment": "普通物品",
+  "item.tinkers_waste.guide": "工匠的实用小物件指南",
   "item.tinkers_waste.hot_water_bucket": "热水桶",
   "fluid_type.tinkers_waste.hot_water": "热水",
 
@@ -14,9 +18,44 @@
   "item.tinkers_waste.dropper.tooltip": "可堆叠的流体容器，能够盛装1粒的流体",
   "item.tinkers_waste.dropper.contents": "%s：1粒",
 
+  "item.tinkers_waste.soul_coal": "灵魂煤炭",
+  "block.tinkers_waste.soul_coal_block": "灵魂煤炭块",
+
+  "_comment": "部件和材料",
+  "item.tinkers_waste.torch_head": "火把头",
+  "item.tinkers_waste.torch_head_sand_cast": "火把头沙子铸模",
+  "item.tinkers_waste.torch_head_red_sand_cast": "火把头红沙铸模",
+  "item.tinkers_waste.torch_head_gold_cast": "火把头金质铸模",
+  "pattern.tinkers_waste.torch_head": "火把头",
+  "stat.tinkers_waste.torch_head": "火把头",
+
+  "ui.tinkers_waste.torch_handle": "箭杆或弓臂",
+
+  "material.tinkers_waste.coal": "煤炭",
+  "material.tinkers_waste.coal.charcoal": "木炭",
+  "material.tinkers_waste.coal.flavor": "小心点别蹭你一身煤灰",
+
+  "material.tinkers_waste.sea_lantern": "海晶灯",
+  "material.tinkers_waste.sea_lantern.flavor": "海之缤器",
+
+  "material.tinkers_waste.froglight": "蛙明灯",
+  "material.tinkers_waste.froglight.flavor": "呱呱呱",
+  "material.tinkers_waste.froglight.verdant": "青翠蛙明灯",
+  "material.tinkers_waste.froglight.ochre": "赭黄蛙明灯",
+  "material.tinkers_waste.froglight.pearlescent": "珠光蛙明灯",
+
+  "material.tinkers_waste.soul_coal": "灵魂",
+  "material.tinkers_waste.soul_coal.flavor": "灵魂之火",
+
+  "material.tinkers_waste.shroomlight": "菌光体",
+  "material.tinkers_waste.shroomlight.flavor": "天然的发光材料",
+
   "_comment": "工具",
   "item.tinkers_waste.torch": "火把",
   "item.tinkers_waste.torch.description": "火把是一种用于点亮周围的工具。",
+
+  "item.tinkers_waste.throwing_torch": "可投掷火把",
+  "item.tinkers_waste.throwing_torch.description": "可投掷火把可以点亮更远范围，并且可以再利用。",
 
   "item.tinkers_waste.small_chisel": "小凿子",
   "item.tinkers_waste.small_chisel.description": "小凿子具有极高的挖掘速度，但是耐久度极低且无法修理。",
@@ -33,7 +72,7 @@
   "_comment": "强化",
   "modifier.tinkers_waste.backpack": "背包",
   "modifier.tinkers_waste.backpack.flavor": "背起你的行囊！",
-  "modifier.tinkers_waste.backpack.description": "提供9个储物槽位",
+  "modifier.tinkers_waste.backpack.description": "提供27个储物槽位",
 
   "modifier.tinkers_waste.backpack_upgrade": "背包升级",
   "modifier.tinkers_waste.backpack_upgrade.flavor": "更快，更大，更强！",
@@ -60,6 +99,96 @@
   "modifier.tinkers_waste.firewall.description": "完全免疫火焰伤害",
   "modifier.tinkers_waste.firewall.requirements": "“防火墙”需要“火焰保护 IV”作为前置",
   "modifier.tinkers_waste.firewall.resistance": "火焰免疫",
+
+  "modifier.tinkers_waste.torch": "火把",
+  "modifier.tinkers_waste.torch.flavor": "把我插到墙上！",
+  "modifier.tinkers_waste.torch.description": "工具可以像火把一样插到墙上",
+
+  "modifier.tinkers_waste.washable": "恐水",
+  "modifier.tinkers_waste.washable.flavor": "不要让我碰水！",
+  "modifier.tinkers_waste.washable.description": "工具放置到世界中时会被水流破坏",
+
+  "modifier.tinkers_waste.washable_provider": "恐水",
+  "modifier.tinkers_waste.washable_provider.flavor": "不要让我碰水！",
+  "modifier.tinkers_waste.washable_provider.description": "工具放置到世界中时会被水流破坏",
+
+  "modifier.tinkers_waste.waterproof": "防水",
+  "modifier.tinkers_waste.waterproof.flavor": "没有明火！",
+  "modifier.tinkers_waste.waterproof.description": "放置的工具不再会被水流破坏",
+
+  "modifier.tinkers_waste.reburn": "再燃",
+  "modifier.tinkers_waste.reburn.flavor": "添把柴！",
+  "modifier.tinkers_waste.reburn.description": "如果目标着火，则增加其着火时间",
+
+  "modifier.tinkers_waste.spreading_flame": "火焰扩散",
+  "modifier.tinkers_waste.spreading_flame.flavor": "引火上身！",
+  "modifier.tinkers_waste.spreading_flame.description": "如果自己着火，则点燃攻击目标",
+
+  "modifier.tinkers_waste.light": "光源",
+  "modifier.tinkers_waste.light.1": "光源 1",
+  "modifier.tinkers_waste.light.2": "光源 2",
+  "modifier.tinkers_waste.light.3": "光源 3",
+  "modifier.tinkers_waste.light.4": "光源 4",
+  "modifier.tinkers_waste.light.5": "光源 5",
+  "modifier.tinkers_waste.light.6": "光源 6",
+  "modifier.tinkers_waste.light.7": "光源 7",
+  "modifier.tinkers_waste.light.8": "光源 8",
+  "modifier.tinkers_waste.light.9": "光源 9",
+  "modifier.tinkers_waste.light.10": "光源 10",
+  "modifier.tinkers_waste.light.11": "光源 11",
+  "modifier.tinkers_waste.light.12": "光源 12",
+  "modifier.tinkers_waste.light.13": "光源 13",
+  "modifier.tinkers_waste.light.14": "光源 14",
+  "modifier.tinkers_waste.light.15": "光源 15",
+  "modifier.tinkers_waste.light.flavor": "真正的闪闪放光芒。",
+  "modifier.tinkers_waste.light.description": "放置的工具发出相当于此强化等级的光照",
+  "modifier.tinkers_waste.light_ammo": "光源",
+  "modifier.tinkers_waste.light_ammo.1": "光源 1",
+  "modifier.tinkers_waste.light_ammo.2": "光源 2",
+  "modifier.tinkers_waste.light_ammo.3": "光源 3",
+  "modifier.tinkers_waste.light_ammo.4": "光源 4",
+  "modifier.tinkers_waste.light_ammo.5": "光源 5",
+  "modifier.tinkers_waste.light_ammo.6": "光源 6",
+  "modifier.tinkers_waste.light_ammo.7": "光源 7",
+  "modifier.tinkers_waste.light_ammo.8": "光源 8",
+  "modifier.tinkers_waste.light_ammo.9": "光源 9",
+  "modifier.tinkers_waste.light_ammo.10": "光源 10",
+  "modifier.tinkers_waste.light_ammo.11": "光源 11",
+  "modifier.tinkers_waste.light_ammo.12": "光源 12",
+  "modifier.tinkers_waste.light_ammo.13": "光源 13",
+  "modifier.tinkers_waste.light_ammo.14": "光源 14",
+  "modifier.tinkers_waste.light_ammo.15": "光源 15",
+  "modifier.tinkers_waste.light_ammo.flavor": "真正的闪闪放光芒。",
+  "modifier.tinkers_waste.light_ammo.description": "放置的工具发出相当于此强化等级的光照",
+
+  "modifier.tinkers_waste.overlight": "光合",
+  "modifier.tinkers_waste.overlight.flavor": "向阳生长！",
+  "modifier.tinkers_waste.overlight.description": "在光照明亮处以较高速度回复黏液覆层；天空光照充足时回复速度再提高",
+
+  "modifier.tinkers_waste.overlight_melee": "光合",
+  "modifier.tinkers_waste.overlight_melee.flavor": "向阳生长！",
+  "modifier.tinkers_waste.overlight_melee.description": "在光照明亮处以较高速度回复黏液覆层；天空光照充足时回复速度再提高",
+
+  "modifier.tinkers_waste.overlight_ammo": "蛙明",
+  "modifier.tinkers_waste.overlight_ammo.flavor": "我爱吃黏液球！",
+  "modifier.tinkers_waste.overlight_ammo.description": "可以在工作台中使用黏液球进行复制",
+
+  "modifier.tinkers_waste.overburn_melee": "过燃",
+  "modifier.tinkers_waste.overburn_melee.flavor": "热量过载！",
+  "modifier.tinkers_waste.overburn_melee.description": "工具可将液体燃料转化为黏液覆层",
+
+  "modifier.tinkers_waste.overburn_ammo": "炽燃",
+  "modifier.tinkers_waste.overburn_ammo.flavor": "火焰不熄！",
+  "modifier.tinkers_waste.overburn_ammo.description": "可以在工作台中使用液体燃料进行复制",
+
+  "modifier.tinkers_waste.placing": "放置",
+  "modifier.tinkers_waste.placing.flavor": "不只是展示框！",
+  "modifier.tinkers_waste.placing.description": "可以将工具放置在世界中，并交互其存储",
+
+  "modifier.tinkers_waste.tick": "滴答",
+  "modifier.tinkers_waste.tick.flavor": "时间可不会停下来等你！",
+  "modifier.tinkers_waste.tick.description": "放置后，工具会继续运转，触发蔓生等随时间生效的强化",
+  "modifier.tinkers_waste.tick.requirements": "“滴答”需要“放置”作为前置",
 
   "_comment": "流体储罐",
   "block.tinkers_waste.iron_fuel_tank": "铁质焦黑燃料储罐",

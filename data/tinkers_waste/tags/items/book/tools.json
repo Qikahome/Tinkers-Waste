@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tinkers_waste:torch",
+    "tinkers_waste:throwing_torch",
+    "tinkers_waste:small_chisel",
+    "tinkers_waste:backpack",
+    "tinkers_waste:rod",
+    "tinkers_waste:litboard"
+  ]
+}

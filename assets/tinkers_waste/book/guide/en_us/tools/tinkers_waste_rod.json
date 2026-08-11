@@ -1,0 +1,19 @@
+{
+  "tool": "tinkers_waste:rod",
+  "text": [
+    {
+      "text": "The rod is just a very long stick that increases your reach."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "It can also be used as a walking stick.",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "Increases reach",
+    "Extra knockback modifier"
+  ]
+}

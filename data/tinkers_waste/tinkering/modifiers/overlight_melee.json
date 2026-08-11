@@ -1,0 +1,47 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tconstruct:trait",
+      "fixed_level": false,
+      "level": 1,
+      "name": "tinkers_waste:overlight",
+      "tool": {
+        "type": "mantle:set",
+        "items": [ "tinkers_waste:torch" ]
+      }
+    },
+    {
+      "type": "tconstruct:trait",
+      "fixed_level": false,
+      "level": 1,
+      "name": "tconstruct:overslime",
+      "tool": {
+        "type": "mantle:set",
+        "items": [ "tinkers_waste:torch" ]
+      }
+    },
+    {
+      "type": "tconstruct:trait",
+      "fixed_level": false,
+      "level": 1,
+      "name": "tconstruct:overslime_friend",
+      "tool": {
+        "type": "mantle:set",
+        "items": [ "tinkers_waste:torch" ]
+      }
+    },
+    {
+      "type": "tconstruct:trait",
+      "fixed_level": false,
+      "level": 1,
+      "name": "tinkers_waste:overlight_ammo",
+      "tool": {
+        "type": "mantle:set",
+        "items": [ "tinkers_waste:throwing_torch" ]
+      }
+    }
+  ],
+  "_comment": "只针对两个火把，其他物品很可能出bug",
+  "tooltip_display": "never"
+}

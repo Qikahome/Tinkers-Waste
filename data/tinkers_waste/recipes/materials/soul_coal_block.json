@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "tinkers_waste:soul_coal_block"
+  },
+  "leftover": "tinkers_waste:soul_coal",
+  "material": "tinkers_waste:soul_coal",
+  "needed": 1,
+  "value": 9
+}

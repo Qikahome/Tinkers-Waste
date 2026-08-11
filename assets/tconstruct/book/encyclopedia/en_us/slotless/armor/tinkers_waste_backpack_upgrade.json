@@ -1,0 +1,14 @@
+{
+  "modifier_id": "tinkers_waste:backpack_upgrade",
+  "text": [
+    {
+      "text": "Adds upgrade slots and increases the capacity of the Tinkerer's Backpack."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Incremental",
+    "No Slot Required",
+    "Different recipe per level"
+  ]
+}

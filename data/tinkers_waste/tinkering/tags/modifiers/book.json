@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "tinkers_waste:armorization",
+    "tinkers_waste:backpack_upgrade",
+    "tinkers_waste:crafting_table_backpack",
+    "tinkers_waste:firewall",
+    "tinkers_waste:placing",
+    "tinkers_waste:tick",
+    "tinkers_waste:workbench_backpack"
+  ]
+}

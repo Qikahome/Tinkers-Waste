@@ -1,0 +1,18 @@
+{
+  "title": "Shroomlight",
+  "item": [
+    "minecraft:shroomlight"
+  ],
+  "text": [
+    {
+      "text": "Shroomlights grow naturally in the giant fungi of the Nether, a natural source of light. Shroomlight torches glow at maximum brightness and are more economical and durable."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Nature's lantern.",
+      "paragraph": true
+    }
+  ]
+}

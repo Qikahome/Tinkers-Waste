@@ -1,0 +1,6 @@
+{
+  "level_display": "tconstruct:no_levels",
+  "modules": [ ],
+  "_comment": "实际上这个强化直接打上完全没有用，额外使用配方实现的",
+  "tooltip_display": "always"
+}

@@ -3,13 +3,18 @@
     {
       "type": "tconstruct:part_stats",
       "parts": [
-        "tconstruct:bow_limb"
+        "tconstruct:bow_limb",
+        "tinkers_waste:torch_head"
       ],
       "primary_part": 0
     },
     {
       "type": "tconstruct:default_materials",
       "materials": [
+        {
+          "type": "tconstruct:random",
+          "tier": 1
+        },
         {
           "type": "tconstruct:random",
           "tier": 1
@@ -29,10 +34,6 @@
         {
           "name": "tconstruct:glowing",
           "level": 1
-        },
-        {
-          "name": "tconstruct:fiery",
-          "level": 1
         }
       ]
     },
@@ -50,6 +51,10 @@
     },
     {
       "type": "tconstruct:dual_option_interaction"
+    },
+    {
+      "type": "tconstruct:material_name",
+      "filter": "all"
     }
   ]
 }

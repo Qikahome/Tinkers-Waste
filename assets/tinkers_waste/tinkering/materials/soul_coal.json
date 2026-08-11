@@ -1,0 +1,53 @@
+{
+  "color": "FF13AFB3",
+  "fallbacks": [
+    "coal"
+  ],
+  "generator": {
+    "supported_stats": [
+      "tinkers_waste:torch_head",
+      "tconstruct:binding",
+      "tconstruct:arrow_head",
+      "tconstruct:handle",
+      "tconstruct:head",
+      "tconstruct:grip",
+      "tconstruct:repair_kit"
+    ],
+    "transformer": {
+      "type": "tconstruct:recolor_sprite",
+      "color_mapping": {
+        "type": "tconstruct:grey_to_color",
+        "palette": [
+          {
+            "color": "FF077C7E",
+            "grey": 0
+          },
+          {
+            "color": "FF078588",
+            "grey": 63
+          },
+          {
+            "color": "FF088F92",
+            "grey": 102
+          },
+          {
+            "color": "FF13AFB3",
+            "grey": 140
+          },
+          {
+            "color": "FF23C0C6",
+            "grey": 178
+          },
+          {
+            "color": "FF5BE3E8",
+            "grey": 216
+          },
+          {
+            "color": "FF7CF2F5",
+            "grey": 255
+          }
+        ]
+      }
+    }
+  }
+}

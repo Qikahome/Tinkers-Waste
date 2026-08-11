@@ -1,0 +1,13 @@
+{
+  "tool": "tinkers_waste:litboard",
+  "text": [
+    { "text": "The litboard is an ancient shield left behind by the ancients, able to block attacks and light your way. It can be found in abandoned mineshafts." }
+  ],
+  "properties": [
+    "Medium damage",
+    "Medium block potential",
+    "2 Upgrade Slots",
+    "1 Defense Slot",
+    "1 Ability Slot"
+  ]
+}

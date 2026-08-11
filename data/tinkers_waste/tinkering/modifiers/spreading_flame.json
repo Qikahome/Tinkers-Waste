@@ -1,0 +1,14 @@
+{
+    "level_display": "tconstruct:default",
+    "modules": [
+        {
+            "type": "qikas_tconlib:conditional_hit_module",
+            "attacker": "mantle:on_fire",
+            "module": {
+                "type": "tconstruct:fiery_attack",
+                "seconds": { "each_level": 8 }
+            }
+        }
+    ],
+    "tooltip_display": "always"
+}

@@ -1,0 +1,19 @@
+{
+  "tool": "tinkers_waste:backpack",
+  "text": [
+    {
+      "text": "工匠背包是一种拥有大存储容量的胸甲。容量可以升级。"
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "谁不想背着冶炼炉到处走呢？",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "27格储物空间",
+    "可升级的护甲值和储物空间"
+  ]
+}

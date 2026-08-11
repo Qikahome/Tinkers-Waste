@@ -1,0 +1,12 @@
+{
+  "title": "Dropper",
+  "text": [
+    {
+      "text": "The dropper is a small variant of the copper can, crafted from glass panes and copper nuggets."
+    },
+    {
+      "text": "It allows moving tiny amounts of fluid with precision, avoiding waste.",
+      "paragraph": true
+    }
+  ]
+}

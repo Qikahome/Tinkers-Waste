@@ -1,0 +1,39 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "qikas_tconlib:conditional_inventory_tick_module",
+      "entity": {
+        "type": "qikas_tconlib:light_level",
+        "light": {
+          "min": 11,
+          "max": 15
+        }
+      },
+      "module": {
+        "type": "tconstruct:overgrowth",
+        "chance": {
+          "each_level": 0.15
+        }
+      }
+    },
+    {
+      "type": "qikas_tconlib:conditional_inventory_tick_module",
+      "entity": {
+        "type": "qikas_tconlib:light_level",
+        "light": {
+          "min": 11,
+          "max": 15
+        },
+        "light_layer": "sky"
+      },
+      "module": {
+        "type": "tconstruct:overgrowth",
+        "chance": {
+          "each_level": 0.1
+        }
+      }
+    }
+  ],
+  "tooltip_display": "always"
+}

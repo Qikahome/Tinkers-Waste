@@ -1,0 +1,43 @@
+{
+  "modules": [
+    {
+      "type": "tconstruct:part_stats",
+      "parts": [
+        "tconstruct:arrow_shaft",
+        "tinkers_waste:torch_head"
+      ],
+      "primary_part": 0
+    },
+    {
+      "type": "tconstruct:default_materials",
+      "materials": [
+        {
+          "type": "tconstruct:random"
+        },
+        {
+          "type": "tconstruct:random"
+        }
+      ]
+    },
+    {
+      "type": "tconstruct:base_stats",
+      "stats": {
+        "tconstruct:accuracy": 1,
+        "tconstruct:projectile_damage": 0.5,
+        "tconstruct:velocity": 1,
+        "tconstruct:water_inertia": 0.5
+      }
+    },
+    {
+      "type": "tconstruct:material_name",
+      "filter": "all"
+    },
+    {
+      "type": "tconstruct:traits",
+      "traits": [
+        { "name": "tinkers_waste:torch", "level": 1 },
+        { "name": "tinkers_waste:washable_provider", "level": 1 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "tool": "tinkers_waste:backpack",
+  "text": [
+    { "text": "The Tinkerer's Backpack is a tool used for storing extra items." },
+    {
+      "text": "Its capacity starts small, but quickly improves with upgrades.",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "No Durability",
+    "No Armor",
+    "1 Upgrade Slot",
+    "No Defense Slot",
+    "1 Ability Slot"
+  ]
+}

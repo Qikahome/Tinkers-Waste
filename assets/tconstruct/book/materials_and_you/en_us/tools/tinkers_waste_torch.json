@@ -1,0 +1,9 @@
+{
+  "tool": "tinkers_waste:torch",
+  "text": [
+    { "text": "This looks like—a torch!" }
+  ],
+  "properties": [
+    "A cheap tool to light up the surroundings"
+  ]
+}

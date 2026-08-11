@@ -1,0 +1,53 @@
+{
+  "color": "FFA0D39B",
+  "fallbacks": [
+    "rock"
+  ],
+  "generator": {
+    "supported_stats": [
+      "tinkers_waste:torch_head",
+      "tconstruct:binding",
+      "tconstruct:maille",
+      "tconstruct:handle",
+      "tconstruct:head",
+      "tconstruct:grip",
+      "tconstruct:repair_kit"
+    ],
+    "transformer": {
+      "type": "tconstruct:recolor_sprite",
+      "color_mapping": {
+        "type": "tconstruct:grey_to_color",
+        "palette": [
+          {
+            "color": "FF5D8148",
+            "grey": 0
+          },
+          {
+            "color": "FF6B9452",
+            "grey": 63
+          },
+          {
+            "color": "FF78A65C",
+            "grey": 102
+          },
+          {
+            "color": "FF88B77F",
+            "grey": 140
+          },
+          {
+            "color": "FF93C584",
+            "grey": 178
+          },
+          {
+            "color": "FFA0D39B",
+            "grey": 216
+          },
+          {
+            "color": "FFBDE1B7",
+            "grey": 255
+          }
+        ]
+      }
+    }
+  }
+}

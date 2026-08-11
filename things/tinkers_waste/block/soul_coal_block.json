@@ -1,0 +1,13 @@
+{
+  "type": "plain",
+  "material": "stone",
+  "map_color": "COLOR_BLACK",
+  "destroy_time": 5.0,
+  "explosion_resistance": 6.0,
+  "sound_type": "stone",
+  "requires_tool_for_drops": true,
+  "light_emission": 10,
+  "item": {
+    "burn_duration": 18000
+  }
+}

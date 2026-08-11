@@ -1,0 +1,25 @@
+{
+  "type": "tconstruct:modifier",
+  "allow_crystal": true,
+  "inputs": [
+    { "item": "minecraft:clock" },
+    { "item": "tconstruct:reversed_gold_item_frame" },
+    { "item": "tconstruct:gold_item_frame" },
+    { "item": "tconstruct:steel_ingot" },
+    { "item": "tconstruct:diamond_item_frame" }
+  ],
+  "level": 1,
+  "result": "tinkers_waste:tick",
+  "slots": {
+    "upgrades": 1
+  },
+  "tools": {
+    "type": "forge:difference",
+    "base": {
+      "tag": "tconstruct:modifiable"
+    },
+    "subtracted": {
+      "tag": "tconstruct:modifiable/single_use"
+    }
+  }
+}

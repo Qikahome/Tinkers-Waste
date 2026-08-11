@@ -1,0 +1,91 @@
+{
+	"loader": "tconstruct:material_block",
+	"parent": "forge:item/default-tool",
+	"parts": [ "0", "1" ],
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "tinkers_waste:item/tool/throwing_torch/handle",
+		"1": "tinkers_waste:item/tool/throwing_torch/head",
+		"particle": "tinkers_waste:item/tool/torch/handle"
+	},
+	"elements": [
+		{
+			"from": [ 7, 0, 7 ],
+			"to": [ 9, 8, 9 ],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [ 7, 0, 7 ]
+			},
+			"faces": {
+				"north": {
+					"uv": [ 7, 8, 9, 16 ],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [ 7, 8, 9, 16 ],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [ 7, 8, 9, 16 ],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [ 7, 8, 9, 16 ],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [ 9, 10, 7, 8 ],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [ 9, 14, 7, 16 ],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [ 7, 8, 7 ],
+			"to": [ 9, 10, 9 ],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [ 7, 8, 7 ]
+			},
+			"faces": {
+				"north": {
+					"uv": [ 7, 6, 9, 8 ],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [ 7, 6, 9, 8 ],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [ 7, 6, 9, 8 ],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [ 7, 6, 9, 8 ],
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [ 7, 6, 9, 8 ],
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [ 7, 6, 9, 8 ],
+					"texture": "#1"
+				}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"rotation": [ -90, 0, 0 ],
+			"translation": [ 0, 0, -14 ],
+			"scale": [ 2, 2, 2 ]
+		}
+	}
+}

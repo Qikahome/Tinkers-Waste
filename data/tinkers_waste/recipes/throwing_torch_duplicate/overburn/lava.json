@@ -1,0 +1,75 @@
+{
+    "type": "jsonmore:shapeless_consuming",
+    "ingredients": [
+        {
+            "type": "jsonmore:fluid",
+            "ingredient": {
+                "type": "jsonmore:item_display_override",
+                "ingredient": {
+                    "type": "jsonmore:true"
+                },
+                "ops": [
+                    { "op": "remove", "value": { "type": "jsonmore:true" } },
+                    { "op": "add_all", "value": { "tag": "tconstruct:duct_containers" } },
+                    { "op": "add_all", "value": { "tag": "tconstruct:tanks" } }
+                ]
+            },
+            "fluid": {
+                "fluid": "minecraft:lava",
+                "amount": 50
+            }
+        },
+        {
+            "type": "jsonmore:nbt_copy",
+            "mode": "REPLACE",
+            "ingredient":
+            {
+                "type": "jsonmore:counted",
+                "ingredient":
+                {
+                    "type": "jsonmore:item_display_override",
+                    "ingredient": {
+                        "type": "forge:partial_nbt",
+                        "item": "tinkers_waste:throwing_torch",
+                        "nbt": {
+                            "tic_modifiers": [
+                                {
+                                    "name": "tinkers_waste:overburn_ammo"
+                                }
+                            ]
+                        }
+                    },
+                    "ops": [
+                        { "op": "remove", "value": { "item": "tinkers_waste:throwing_torch" } },
+                        {
+                            "op": "add",
+                            "value": {
+                                "id": "tinkers_waste:throwing_torch",
+                                "Count": 1,
+                                "tag": {
+                                    "tic_display": true,
+                                    "tic_materials": [ "tconstruct:ui_render#handle", "tconstruct:cinderslime" ],
+                                    "tic_modifiers": [
+                                        { "level": 1, "name": "tinkers_waste:overburn_ammo" }
+                                    ]
+                                }
+                            }
+                        }
+                    ]
+                },
+                "count": 0
+            }
+        }
+    ],
+    "result": {
+        "item": "tinkers_waste:throwing_torch",
+        "count": 4,
+        "nbt": {
+            "tic_display": true,
+            "tic_materials": [ "tconstruct:ui_render#handle", "tconstruct:cinderslime" ],
+            "tic_modifiers": [
+                { "level": 1, "name": "tinkers_waste:overburn_ammo" }
+            ]
+        }
+    }
+}

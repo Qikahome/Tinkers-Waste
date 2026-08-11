@@ -1,0 +1,18 @@
+{
+  "type": "jsonmore:book",
+  "book_id": "tinkers_waste:guide",
+  "book_data": [
+    {
+      "type": "mantle:repository",
+      "id": "tinkers_waste:book/guide"
+    },
+    "tconstruct:tool_tag_injector",
+    "tconstruct:modifier_tag_injector",
+    "tconstruct:tool_section",
+    "tconstruct:modifier_section",
+    "mantle:index",
+    "mantle:padding",
+    "mantle:set_unicode"
+  ],
+  "max_stack_size": 1
+}

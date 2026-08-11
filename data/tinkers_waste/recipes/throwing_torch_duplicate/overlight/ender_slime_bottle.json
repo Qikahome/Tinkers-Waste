@@ -1,0 +1,75 @@
+{
+    "type": "jsonmore:shapeless_consuming",
+    "ingredients": [
+        {
+            "item": "tconstruct:ender_slime_bottle"
+        },
+        {
+            "type": "jsonmore:nbt_copy",
+            "mode": "REPLACE",
+            "ingredient": {
+                "type": "jsonmore:counted",
+                "ingredient": {
+                    "type": "jsonmore:item_display_override",
+                    "ingredient": {
+                        "type": "forge:partial_nbt",
+                        "item": "tinkers_waste:throwing_torch",
+                        "nbt": {
+                            "tic_modifiers": [
+                                {
+                                    "name": "tinkers_waste:overlight_ammo"
+                                }
+                            ]
+                        }
+                    },
+                    "ops": [
+                        {
+                            "op": "remove",
+                            "value": {
+                                "item": "tinkers_waste:throwing_torch"
+                            }
+                        },
+                        {
+                            "op": "add",
+                            "value": {
+                                "id": "tinkers_waste:throwing_torch",
+                                "Count": 1,
+                                "tag": {
+                                    "tic_display": true,
+                                    "tic_materials": [
+                                        "tconstruct:ui_render#handle",
+                                        "tinkers_waste:froglight"
+                                    ],
+                                    "tic_modifiers": [
+                                        {
+                                            "level": 1,
+                                            "name": "tinkers_waste:overlight_ammo"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    ]
+                },
+                "count": 0
+            }
+        }
+    ],
+    "result": {
+        "item": "tinkers_waste:throwing_torch",
+        "count": 16,
+        "nbt": {
+            "tic_display": true,
+            "tic_materials": [
+                "tconstruct:ui_render#handle",
+                "tinkers_waste:froglight"
+            ],
+            "tic_modifiers": [
+                {
+                    "level": 1,
+                    "name": "tinkers_waste:overlight_ammo"
+                }
+            ]
+        }
+    }
+}

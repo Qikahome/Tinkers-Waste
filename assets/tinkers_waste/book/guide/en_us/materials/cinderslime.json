@@ -1,0 +1,18 @@
+{
+  "title": "Cinderslime",
+  "item": [
+    "tconstruct:cinderslime_ingot"
+  ],
+  "text": [
+    {
+      "text": "Cinderslime is an advanced slime material. Cinderslime torch heads glow at full brightness and can convert liquid fuel into overslime."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Cast it into the fire!",
+      "paragraph": true
+    }
+  ]
+}

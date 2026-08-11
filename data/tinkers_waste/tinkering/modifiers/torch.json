@@ -1,0 +1,15 @@
+{
+  "level_display": "tconstruct:no_levels",
+  "modules": [
+    {
+      "type":"qikas_tconlib:placing",
+      "require_sneaking": false,
+      "before_block_use": true,
+      "_comment": "实际上没有用"
+    },
+    {
+      "type":"qikas_tconlib:projectile_placing"
+    }
+  ],
+  "tooltip_display": "always"
+}

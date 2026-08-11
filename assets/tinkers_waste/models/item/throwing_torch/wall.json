@@ -1,0 +1,10 @@
+{
+	"parent": "tinkers_waste:item/throwing_torch/ground",
+	"display": {
+		"fixed": {
+			"rotation": [ -22.5, 0, 0 ],
+			"translation": [ 0, 5.5, -4.1 ],
+			"scale": [ 2, 2, 2 ]
+		}
+	}
+}

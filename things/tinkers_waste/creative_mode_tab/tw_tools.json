@@ -1,0 +1,19 @@
+{
+  "icon": {
+    "item": "tinkers_waste:torch",
+    "nbt": {
+      "tic_display": true,
+      "tic_materials": [ "tconstruct:ui_render#handle", "tinkers_waste:coal" ]
+    }
+  },
+  "before": [ "tinkers_waste:tw_utilities" ],
+  "translation_key": "itemGroup.tinkers_waste.tools",
+  "items": [
+    "tinkers_waste:small_chisel",
+    "tinkers_waste:backpack",
+    "tinkers_waste:rod",
+    "tinkers_waste:torch",
+    "tinkers_waste:throwing_torch",
+    "tinkers_waste:litboard"
+  ]
+}

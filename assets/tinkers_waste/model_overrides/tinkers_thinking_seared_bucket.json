@@ -1,0 +1,9 @@
+{
+	"model": "tinkers_thinking:item/seared_bucket",
+	"overrides": [
+		{
+			"predicate": { "qikas_tconlib:placed": 1 },
+			"model": "tinkers_waste:item/tinkers_thinking/placed_bucket"
+		}
+	]
+}

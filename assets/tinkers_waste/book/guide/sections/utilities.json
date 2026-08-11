@@ -1,0 +1,22 @@
+[
+  {
+    "name": "index",
+    "type": "mantle:index",
+    "data": "utilities/index.json"
+  },
+  {
+    "name": "dropper",
+    "type": "tconstruct:showcase",
+    "data": "utilities/dropper.json"
+  },
+  {
+    "name": "seared_copper_can",
+    "type": "tconstruct:showcase",
+    "data": "utilities/seared_copper_can.json"
+  },
+  {
+    "name": "tanks",
+    "type": "tconstruct:showcase",
+    "data": "utilities/tanks.json"
+  }
+]

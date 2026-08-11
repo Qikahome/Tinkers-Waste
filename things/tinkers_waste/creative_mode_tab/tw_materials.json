@@ -1,0 +1,15 @@
+{
+  "icon": {
+    "item": "tinkers_waste:soul_coal"
+  },
+  "before": [ "tinkers_waste:tw_tools" ],
+  "translation_key": "itemGroup.tinkers_waste.materials",
+  "items": [
+    "tinkers_waste:soul_coal",
+    "tinkers_waste:soul_coal_block",
+    "tinkers_waste:torch_head_gold_cast",
+    "tinkers_waste:torch_head_sand_cast",
+    "tinkers_waste:torch_head_red_sand_cast",
+    "tinkers_waste:torch_head"
+  ]
+}

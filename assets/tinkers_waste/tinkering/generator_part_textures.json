@@ -46,6 +46,26 @@
       "stat_type": "tconstruct:limb"
     },
     {
+      "path": "tinkers_waste:item/tool/throwing_torch/handle",
+      "stat_type": "tconstruct:arrow_shaft"
+    },
+    {
+      "path": "tinkers_waste:item/tool/torch/head",
+      "stat_type": "tinkers_waste:torch_head"
+    },
+    {
+      "path": "tinkers_waste:item/tool/torch/head_broken",
+      "stat_type": "tinkers_waste:torch_head"
+    },
+    {
+      "path": "tinkers_waste:item/tool/throwing_torch/head",
+      "stat_type": "tinkers_waste:torch_head"
+    },
+    {
+      "path": "tinkers_waste:item/part/torch_head",
+      "stat_type": "tinkers_waste:torch_head"
+    },
+    {
       "path": "tinkers_waste:tinker_armor/backpack/body_armor",
       "stat_type": "tconstruct:maille",
       "allow_animated": false

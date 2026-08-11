@@ -1,0 +1,19 @@
+{
+  "title": "Coal",
+  "item": [
+    "minecraft:coal",
+    "minecraft:charcoal"
+  ],
+  "text": [
+    {
+      "text": "Coal and charcoal are the easiest torch head materials to obtain. Torch heads made from them glow at level 14 and come with Reburn and Spreading Flame, igniting targets on fire."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Mind you don't get covered in coal dust.",
+      "paragraph": true
+    }
+  ]
+}

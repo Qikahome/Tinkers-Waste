@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "amount": 1000,
+    "tag": "tconstruct:liquid_soul"
+  },
+  "input": "tinkers_waste:coal",
+  "output": "tinkers_waste:soul_coal",
+  "temperature": 400
+}

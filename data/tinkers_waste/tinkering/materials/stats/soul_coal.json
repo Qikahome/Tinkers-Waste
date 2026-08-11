@@ -1,0 +1,24 @@
+{
+  "stats": {
+    "tinkers_waste:torch_head": { },
+    "tconstruct:binding": { },
+    "tconstruct:arrow_head": { },
+    "tconstruct:handle": {
+      "durability": -0.1,
+      "melee_damage": 0.1,
+      "melee_speed": 0,
+      "mining_speed": -0.1
+    },
+    "tconstruct:head": {
+      "durability": 200,
+      "melee_attack": 2,
+      "mining_speed": 2.5,
+      "mining_tier": "minecraft:iron"
+    },
+    "tconstruct:grip": {
+      "accuracy": -0.1,
+      "durability": -0.1,
+      "melee_damage": 1.5
+    }
+  }
+}

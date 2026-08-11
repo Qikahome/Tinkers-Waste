@@ -3,7 +3,7 @@
   "modules": [
     {
       "type": "tconstruct:inventory",
-      "slots": { "each_level": 9 }
+      "slots": { "each_level": 27 }
     },
     {
       "type": "tconstruct:inventory_menu",

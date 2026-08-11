@@ -1,0 +1,18 @@
+{
+  "title": "余烬黏液",
+  "item": [
+    "tconstruct:cinderslime_ingot"
+  ],
+  "text": [
+    {
+      "text": "余烬黏液是一种高级黏液材料。余烬黏液火把头发出满级的亮光，还能将液体燃料转化为黏液覆层。"
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "将其铸进烈火！",
+      "paragraph": true
+    }
+  ]
+}

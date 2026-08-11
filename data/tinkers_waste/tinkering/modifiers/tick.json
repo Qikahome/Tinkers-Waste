@@ -1,0 +1,30 @@
+{
+  "level_display": "tconstruct:no_levels",
+  "modules": [
+    {
+      "type": "tconstruct:requirements",
+      "display_modifiers": [
+        {
+          "level": 1,
+          "name": "tinkers_waste:placing"
+        }
+      ],
+      "requirement": {
+        "type": "tconstruct:has_modifier",
+        "check": "all",
+        "level": {
+          "min": 1
+        },
+        "modifier": {
+          "type": "tconstruct:single",
+          "modifier": "tinkers_waste:placing"
+        }
+      },
+      "translation_key": "modifier.tinkers_waste.tick.requirements"
+    },
+    {
+      "type": "qikas_tconlib:placed_inventory_tick"
+    }
+  ],
+  "tooltip_display": "always"
+}

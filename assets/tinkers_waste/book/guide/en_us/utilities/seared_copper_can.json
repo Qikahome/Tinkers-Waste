@@ -1,0 +1,18 @@
+{
+  "title": "Seared Copper Can",
+  "item": [
+    "tinkers_waste:seared_copper_can"
+  ],
+  "text": [
+    {
+      "text": "The seared copper can is a stackable fluid container that holds a single ingot of fluid. It carries more than a dropper, making it a handy way to bring fluids along."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "An ingot's worth, no more.",
+      "paragraph": true
+    }
+  ]
+}

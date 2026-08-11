@@ -1,0 +1,6 @@
+{
+  "type": "tconstruct:tool_building",
+  "result": "tinkers_waste:throwing_torch",
+  "result_count": 4,
+  "slot_layout": "tinkers_waste:torch"
+}

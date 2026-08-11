@@ -18,7 +18,8 @@
         "index": 0
       },
       {
-        "name": "head"
+        "name": "head",
+        "index": 1
       }
     ],
     "overrides": [

@@ -1,0 +1,34 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "tinkers_thinking"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "category": "misc",
+        "key": {
+          "#": {
+            "item": "tinkers_thinking:stone_stick"
+          },
+          "X": {
+            "item": "tinkers_waste:soul_coal"
+          }
+        },
+        "pattern": [
+          "X",
+          "#"
+        ],
+        "result": {
+          "count": 4,
+          "item": "tinkers_thinking:stone_soul_torch"
+        },
+        "show_notification": true
+      }
+    }
+  ]
+}

@@ -3,6 +3,19 @@
   "values": [
     "tinkers_waste:torch",
     "tinkers_waste:rod",
-    "tinkers_waste:litboard"
+    "tinkers_waste:litboard",
+    "tinkers_waste:backpack",
+    {
+      "id": "tinkers_thinking:battle_bucket",
+      "required": false
+    },
+    {
+      "id": "tinkers_thinking:seared_bucket",
+      "required": false
+    },
+    {
+      "id": "tinkers_thinking:tinkers_bronze_bucket",
+      "required": false
+    }
   ]
 }

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "index",
+    "type": "mantle:index",
+    "data": "materials/index.json"
+  },
+  {
+    "name": "coal",
+    "type": "tconstruct:showcase",
+    "data": "materials/coal.json"
+  },
+  {
+    "name": "soul_coal",
+    "type": "tconstruct:showcase",
+    "data": "materials/soul_coal.json"
+  },
+  {
+    "name": "shroomlight",
+    "type": "tconstruct:showcase",
+    "data": "materials/shroomlight.json"
+  },
+  {
+    "name": "sea_lantern",
+    "type": "tconstruct:showcase",
+    "data": "materials/sea_lantern.json"
+  },
+  {
+    "name": "froglight",
+    "type": "tconstruct:showcase",
+    "data": "materials/froglight.json"
+  },
+  {
+    "name": "blaze",
+    "type": "tconstruct:showcase",
+    "data": "materials/blaze.json"
+  },
+  {
+    "name": "end_rod",
+    "type": "tconstruct:showcase",
+    "data": "materials/end_rod.json"
+  },
+  {
+    "name": "cinderslime",
+    "type": "tconstruct:showcase",
+    "data": "materials/cinderslime.json"
+  }
+]

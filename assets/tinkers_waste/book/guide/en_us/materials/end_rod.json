@@ -1,0 +1,18 @@
+{
+  "title": "End Rod",
+  "item": [
+    "minecraft:end_rod"
+  ],
+  "text": [
+    {
+      "text": "End rods adorn the structures of End cities. End rod torch heads glow at level 14 and are waterproof."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Arrow to the knee, arrow to the end rod.",
+      "paragraph": true
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "tconstruct:table_casting_material",
+  "cast": {
+    "tag": "tinkers_waste:casts/torch_head_multi_use"
+  },
+  "item_cost": 1,
+  "result": "tinkers_waste:torch_head"
+}

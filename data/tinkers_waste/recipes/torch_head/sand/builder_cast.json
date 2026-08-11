@@ -1,0 +1,8 @@
+{
+  "type": "tconstruct:item_part_builder",
+  "pattern": "tinkers_waste:torch_head",
+  "pattern_item": {
+    "tag": "tconstruct:casts/sand"
+  },
+  "result": "tinkers_waste:torch_head_sand_cast"
+}

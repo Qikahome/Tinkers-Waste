@@ -1,0 +1,20 @@
+{
+  "level_display": {
+    "type": "tconstruct:unique",
+    "unique_until": 15,
+    "first_unique": true
+  },
+  "modules": [
+    {
+      "type": "tconstruct:trait",
+      "fixed_level": false,
+      "level": 1,
+      "name": "tinkers_waste:light",
+      "tool": {
+        "type": "mantle:tag",
+        "tag": "tconstruct:modifiable/ammo"
+      }
+    }
+  ],
+  "tooltip_display": "never"
+}

@@ -1,8 +1,12 @@
 {
   "description.tinkers_waste.pack": "Data and resources for Tinker's Useful Items",
   "itemGroup.tinkers_waste.tinkers_waste": "Tinker's Useful Items",
+  "itemGroup.tinkers_waste.materials": "Tinker's Useful Items | Materials",
+  "itemGroup.tinkers_waste.tools": "Tinker's Useful Items | Tools",
+  "itemGroup.tinkers_waste.utilities": "Tinker's Useful Items | Utilities",
 
-  "_comment": "普通物品",
+  "_comment": "Misc Items",
+  "item.tinkers_waste.guide": "Tinker's Useful Items Guide",
   "item.tinkers_waste.hot_water_bucket": "Hot Water Bucket",
   "fluid_type.tinkers_waste.hot_water": "Hot Water",
 
@@ -14,9 +18,44 @@
   "item.tinkers_waste.dropper.tooltip": "Stackable container holding 1 nugget of fluid",
   "item.tinkers_waste.dropper.contents": "%s: 1 nugget",
 
-  "_comment": "工具",
+  "item.tinkers_waste.soul_coal": "Soul Coal",
+  "block.tinkers_waste.soul_coal_block": "Soul Coal Block",
+
+  "_comment": "Parts and Materials",
+  "item.tinkers_waste.torch_head": "Torch Head",
+  "item.tinkers_waste.torch_head_sand_cast": "Torch Head Sand Cast",
+  "item.tinkers_waste.torch_head_red_sand_cast": "Torch Head Red Sand Cast",
+  "item.tinkers_waste.torch_head_gold_cast": "Torch Head Gold Cast",
+  "pattern.tinkers_waste.torch_head": "Torch Head",
+  "stat.tinkers_waste.torch_head": "Torch Head",
+
+  "ui.tinkers_waste.torch_handle": "Arrow Shaft or Bow Limb",
+
+  "material.tinkers_waste.coal": "Coal",
+  "material.tinkers_waste.coal.charcoal": "Charcoal",
+  "material.tinkers_waste.coal.flavor": "Careful not to get soot all over yourself",
+
+  "material.tinkers_waste.sea_lantern": "Sea Lantern",
+  "material.tinkers_waste.sea_lantern.flavor": "Wonder of the sea",
+
+  "material.tinkers_waste.froglight": "Froglight",
+  "material.tinkers_waste.froglight.flavor": "Ribbit!",
+  "material.tinkers_waste.froglight.verdant": "Verdant Froglight",
+  "material.tinkers_waste.froglight.ochre": "Ochre Froglight",
+  "material.tinkers_waste.froglight.pearlescent": "Pearlescent Froglight",
+
+  "material.tinkers_waste.soul_coal": "Soul",
+  "material.tinkers_waste.soul_coal.flavor": "Soulfire",
+
+  "material.tinkers_waste.shroomlight": "Shroomlight",
+  "material.tinkers_waste.shroomlight.flavor": "A naturally glowing material",
+
+  "_comment": "Tools",
   "item.tinkers_waste.torch": "Torch",
   "item.tinkers_waste.torch.description": "A tool used to light up the surrounding area.",
+
+  "item.tinkers_waste.throwing_torch": "Throwable Torch",
+  "item.tinkers_waste.throwing_torch.description": "A throwable torch that lights up further areas and can be reused.",
 
   "item.tinkers_waste.small_chisel": "Small Chisel",
   "item.tinkers_waste.small_chisel.description": "The small chisel has extremely high mining speed, but very low durability and cannot be repaired.",
@@ -30,10 +69,10 @@
   "item.tinkers_waste.litboard": "Litboard",
   "item.tinkers_waste.litboard.description": "An ancient tool that can be used to block attacks and illuminate the surroundings.",
 
-  "_comment": "强化",
+  "_comment": "Modifiers",
   "modifier.tinkers_waste.backpack": "Backpack",
   "modifier.tinkers_waste.backpack.flavor": "Carry your gear!",
-  "modifier.tinkers_waste.backpack.description": "Provides 9 storage slots",
+  "modifier.tinkers_waste.backpack.description": "Provides 27 storage slots",
 
   "modifier.tinkers_waste.backpack_upgrade": "Backpack Upgrade",
   "modifier.tinkers_waste.backpack_upgrade.flavor": "Faster, bigger, better!",
@@ -61,7 +100,97 @@
   "modifier.tinkers_waste.firewall.requirements": "Firewall requires Fire Protection IV as a prerequisite",
   "modifier.tinkers_waste.firewall.resistance": "Fire Resistance",
 
-  "_comment": "流体储罐",
+  "modifier.tinkers_waste.torch": "Torch",
+  "modifier.tinkers_waste.torch.flavor": "Stick me on the wall!",
+  "modifier.tinkers_waste.torch.description": "Tools can be placed on walls like torches",
+
+  "modifier.tinkers_waste.washable": "Washable",
+  "modifier.tinkers_waste.washable.flavor": "Don't let me touch water!",
+  "modifier.tinkers_waste.washable.description": "Tools placed in the world are destroyed by water flow",
+
+  "modifier.tinkers_waste.washable_provider": "Washable",
+  "modifier.tinkers_waste.washable_provider.flavor": "Don't let me touch water!",
+  "modifier.tinkers_waste.washable_provider.description": "Tools placed in the world are destroyed by water flow",
+
+  "modifier.tinkers_waste.waterproof": "Waterproof",
+  "modifier.tinkers_waste.waterproof.flavor": "No open flames!",
+  "modifier.tinkers_waste.waterproof.description": "Placed tools are no longer destroyed by water flow",
+
+  "modifier.tinkers_waste.reburn": "Reburn",
+  "modifier.tinkers_waste.reburn.flavor": "Add some fuel!",
+  "modifier.tinkers_waste.reburn.description": "If the target is on fire, increases its burn time",
+
+  "modifier.tinkers_waste.spreading_flame": "Spreading Flame",
+  "modifier.tinkers_waste.spreading_flame.flavor": "It spreads to you!",
+  "modifier.tinkers_waste.spreading_flame.description": "If you are on fire, ignites the attack target",
+
+  "modifier.tinkers_waste.light": "Light",
+  "modifier.tinkers_waste.light.1": "Light 1",
+  "modifier.tinkers_waste.light.2": "Light 2",
+  "modifier.tinkers_waste.light.3": "Light 3",
+  "modifier.tinkers_waste.light.4": "Light 4",
+  "modifier.tinkers_waste.light.5": "Light 5",
+  "modifier.tinkers_waste.light.6": "Light 6",
+  "modifier.tinkers_waste.light.7": "Light 7",
+  "modifier.tinkers_waste.light.8": "Light 8",
+  "modifier.tinkers_waste.light.9": "Light 9",
+  "modifier.tinkers_waste.light.10": "Light 10",
+  "modifier.tinkers_waste.light.11": "Light 11",
+  "modifier.tinkers_waste.light.12": "Light 12",
+  "modifier.tinkers_waste.light.13": "Light 13",
+  "modifier.tinkers_waste.light.14": "Light 14",
+  "modifier.tinkers_waste.light.15": "Light 15",
+  "modifier.tinkers_waste.light.flavor": "Truly, shine bright!",
+  "modifier.tinkers_waste.light.description": "Placed tools emit light equal to this modifier's level",
+  "modifier.tinkers_waste.light_ammo": "Light",
+  "modifier.tinkers_waste.light_ammo.1": "Light 1",
+  "modifier.tinkers_waste.light_ammo.2": "Light 2",
+  "modifier.tinkers_waste.light_ammo.3": "Light 3",
+  "modifier.tinkers_waste.light_ammo.4": "Light 4",
+  "modifier.tinkers_waste.light_ammo.5": "Light 5",
+  "modifier.tinkers_waste.light_ammo.6": "Light 6",
+  "modifier.tinkers_waste.light_ammo.7": "Light 7",
+  "modifier.tinkers_waste.light_ammo.8": "Light 8",
+  "modifier.tinkers_waste.light_ammo.9": "Light 9",
+  "modifier.tinkers_waste.light_ammo.10": "Light 10",
+  "modifier.tinkers_waste.light_ammo.11": "Light 11",
+  "modifier.tinkers_waste.light_ammo.12": "Light 12",
+  "modifier.tinkers_waste.light_ammo.13": "Light 13",
+  "modifier.tinkers_waste.light_ammo.14": "Light 14",
+  "modifier.tinkers_waste.light_ammo.15": "Light 15",
+  "modifier.tinkers_waste.light_ammo.flavor": "Truly, shine bright!",
+  "modifier.tinkers_waste.light_ammo.description": "Placed tools emit light equal to this modifier's level",
+
+  "modifier.tinkers_waste.overlight": "Photosynthesis",
+  "modifier.tinkers_waste.overlight.flavor": "Grow towards the light!",
+  "modifier.tinkers_waste.overlight.description": "Restores overslime quickly in bright light, and even faster under direct sunlight",
+
+  "modifier.tinkers_waste.overlight_melee": "Photosynthesis",
+  "modifier.tinkers_waste.overlight_melee.flavor": "Grow towards the light!",
+  "modifier.tinkers_waste.overlight_melee.description": "Restores overslime quickly in bright light, and even faster under direct sunlight",
+
+  "modifier.tinkers_waste.overlight_ammo": "Froglight",
+  "modifier.tinkers_waste.overlight_ammo.flavor": "I love slime balls!",
+  "modifier.tinkers_waste.overlight_ammo.description": "Can be duplicated with slime balls at a crafting table",
+
+  "modifier.tinkers_waste.overburn_melee": "Overburn",
+  "modifier.tinkers_waste.overburn_melee.flavor": "Thermal overload!",
+  "modifier.tinkers_waste.overburn_melee.description": "Tools convert liquid fuel into overslime",
+
+  "modifier.tinkers_waste.overburn_ammo": "Blazing",
+  "modifier.tinkers_waste.overburn_ammo.flavor": "The flame never dies!",
+  "modifier.tinkers_waste.overburn_ammo.description": "Can be duplicated with liquid fuel at a crafting table",
+
+  "modifier.tinkers_waste.placing": "Placing",
+  "modifier.tinkers_waste.placing.flavor": "More than a display frame!",
+  "modifier.tinkers_waste.placing.description": "Place the tool in the world and interact with its storage",
+
+  "modifier.tinkers_waste.tick": "Tick",
+  "modifier.tinkers_waste.tick.flavor": "Time waits for no one!",
+  "modifier.tinkers_waste.tick.description": "When placed, the tool keeps ticking, triggering time-based modifiers like Overgrowth",
+  "modifier.tinkers_waste.tick.requirements": "Tick requires Placing",
+
+  "_comment": "Fluid Tanks",
   "block.tinkers_waste.iron_fuel_tank": "Iron Seared Fuel Tank",
   "block.tinkers_waste.iron_fuel_gauge": "Iron Seared Fuel Gauge",
   "block.tinkers_waste.iron_ingot_tank": "Iron Seared Tank",

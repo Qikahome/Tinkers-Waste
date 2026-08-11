@@ -1,0 +1,12 @@
+{
+  "default": [
+    { "name": "tconstruct:overslime", "level": 1 },
+    { "name": "tinkers_waste:overlight", "level": 1 }
+  ],
+  "perStat": {
+    "tinkers_waste:torch_head": [
+      { "name": "tinkers_waste:light_ammo", "level": 15 },
+      { "name": "tinkers_waste:waterproof", "level": 1 }
+    ]
+  }
+}

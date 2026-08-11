@@ -1,0 +1,12 @@
+{
+  "tool": "tinkers_waste:rod",
+  "text": [
+    { "text": "The long rod may seem unremarkable, but as a walking staff it has much to offer. It extends your reach and can shove enemies far away." }
+  ],
+  "properties": [
+    "Medium durability",
+    "2 Upgrade Slots",
+    "1 Defense Slot",
+    "1 Ability Slot"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tool": "tinkers_waste:torch",
+  "text": [
+    {
+      "text": "The torch is a tool for lighting up the environment. Repairing it with bow limb materials effectively reduces coal consumption."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "You can also use it as a walking stick.",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "Lights up the dark",
+    "Durability determined by the bow limb",
+    "Comes with Glowing"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "tinkers_waste:item/tinkers_thinking/placed_bucket",
+	"textures": {
+		"side": "tinkers_thinking:block/ardite",
+		"bottom": "tinkers_thinking:block/ardite_top"
+	}
+}

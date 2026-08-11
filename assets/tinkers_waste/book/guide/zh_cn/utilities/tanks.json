@@ -1,0 +1,61 @@
+{
+  "title": "高级储罐",
+  "item": [
+    "tinkers_waste:iron_fuel_tank",
+    "tinkers_waste:iron_fuel_gauge",
+    "tinkers_waste:iron_ingot_tank",
+    "tinkers_waste:iron_ingot_gauge",
+    "tinkers_waste:iron_scorched_fuel_tank",
+    "tinkers_waste:iron_scorched_fuel_gauge",
+    "tinkers_waste:iron_scorched_ingot_tank",
+    "tinkers_waste:iron_scorched_ingot_gauge",
+    "tinkers_waste:gold_fuel_tank",
+    "tinkers_waste:gold_fuel_gauge",
+    "tinkers_waste:gold_ingot_tank",
+    "tinkers_waste:gold_ingot_gauge",
+    "tinkers_waste:gold_scorched_fuel_tank",
+    "tinkers_waste:gold_scorched_fuel_gauge",
+    "tinkers_waste:gold_scorched_ingot_tank",
+    "tinkers_waste:gold_scorched_ingot_gauge",
+    "tinkers_waste:diamond_fuel_tank",
+    "tinkers_waste:diamond_fuel_gauge",
+    "tinkers_waste:diamond_ingot_tank",
+    "tinkers_waste:diamond_ingot_gauge",
+    "tinkers_waste:diamond_scorched_fuel_tank",
+    "tinkers_waste:diamond_scorched_fuel_gauge",
+    "tinkers_waste:diamond_scorched_ingot_tank",
+    "tinkers_waste:diamond_scorched_ingot_gauge",
+    "tinkers_waste:debris_fuel_tank",
+    "tinkers_waste:debris_fuel_gauge",
+    "tinkers_waste:debris_ingot_tank",
+    "tinkers_waste:debris_ingot_gauge",
+    "tinkers_waste:debris_scorched_fuel_tank",
+    "tinkers_waste:debris_scorched_fuel_gauge",
+    "tinkers_waste:debris_scorched_ingot_tank",
+    "tinkers_waste:debris_scorched_ingot_gauge",
+    "tinkers_waste:netherite_fuel_tank",
+    "tinkers_waste:netherite_fuel_gauge",
+    "tinkers_waste:netherite_ingot_tank",
+    "tinkers_waste:netherite_ingot_gauge",
+    "tinkers_waste:netherite_scorched_fuel_tank",
+    "tinkers_waste:netherite_scorched_fuel_gauge",
+    "tinkers_waste:netherite_scorched_ingot_tank",
+    "tinkers_waste:netherite_scorched_ingot_gauge"
+  ],
+  "text": [
+    {
+      "text": "用铁、金、钻石、残骸与下界合金打造的焦黑与焦褐储罐家族，容量远超普通储罐。材料储罐盛装熔融金属，燃料储罐盛装燃料，量器则用于显示储量。"
+    },
+    {
+      "text": "需要安装拓展存储，或设置 /gamerule tinkers_waste.enable_extended_tanks true 才能合成这些储罐。",
+      "paragraph": true
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "要炼大炉子，先有大罐子。",
+      "paragraph": true
+    }
+  ]
+}

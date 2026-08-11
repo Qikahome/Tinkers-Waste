@@ -1,0 +1,19 @@
+{
+  "tool": "tinkers_waste:backpack",
+  "text": [
+    {
+      "text": "The backpack is a chestplate with a large storage capacity. Its capacity can be upgraded."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Who wouldn't want to carry a smeltery around?",
+      "paragraph": true
+    }
+  ],
+  "properties": [
+    "27 slots of storage",
+    "Upgradeable armor and storage"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "coverTexture": "tinkers_waste:book/images/covers/guide_cover.png",
+  "coverColor": -1,
+  "bookTexture": "tinkers_waste:book/images/covers/guide_pages.png",
+  "arrowColor": -1,
+  "slotColor": 16766720,
+  "drawSectionListText": true,
+  "largePageTitles": false,
+  "centerPageTitles": false,
+  "drawFourColumnIndex": true
+}

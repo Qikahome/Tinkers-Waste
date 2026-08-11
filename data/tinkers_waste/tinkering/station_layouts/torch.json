@@ -4,27 +4,32 @@
     "item": "tinkers_waste:torch",
     "nbt": {
       "tic_display": true,
-      "tic_materials": [ "tconstruct:ui_render#head", "tconstruct:ui_render#handle", "tconstruct:ui_render#extra" ]
+      "tic_materials": [ "tconstruct:ui_render#handle", "tinkers_waste:coal" ]
     }
   },
   "sortIndex": 2,
   "input_slots": [
     {
-      "icon": "tconstruct:bow_limb",
-      "translation_key": "item.tconstruct.bow_limb",
+      "icon": "tinkers_waste:torch_handle",
+      "translation_key": "ui.tinkers_waste.torch_handle",
       "x": 30,
       "y": 53,
-      "filter": {
-        "item": "tconstruct:bow_limb"
-      }
+      "filter": [
+        {
+          "item": "tconstruct:bow_limb"
+        },
+        {
+          "item": "tconstruct:arrow_shaft"
+        }
+      ]
     },
     {
-      "icon": "tinkers_waste:coal",
-      "translation_key": "item.minecraft.coal",
+      "icon": "tinkers_waste:torch_head",
+      "translation_key": "item.tinkers_waste.torch_head",
       "x": 30,
       "y": 35,
       "filter": {
-        "tag": "minecraft:coals"
+        "item": "tinkers_waste:torch_head"
       }
     }
   ]

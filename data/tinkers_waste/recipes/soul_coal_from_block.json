@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tinkers_waste:soul_coal_block"
+    }
+  ],
+  "result": {
+    "item": "tinkers_waste:soul_coal",
+    "count": 9
+  }
+}

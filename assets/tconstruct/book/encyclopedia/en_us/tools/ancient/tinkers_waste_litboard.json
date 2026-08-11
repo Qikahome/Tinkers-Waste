@@ -1,0 +1,14 @@
+{
+  "tool": "tinkers_waste:litboard",
+  "text": [
+    { "text": "The litboard is an ancient shield with excellent blocking ability and the power to illuminate its surroundings." },
+    { "text": "Its materials are random and cannot be changed by part swapping.", "paragraph": true }
+  ],
+  "properties": [
+    "6.0 Attack Speed",
+    "Puncturing II",
+    "25 Max Block Amount",
+    "120° Block Angle",
+    "+2 Entity Reach"
+  ]
+}

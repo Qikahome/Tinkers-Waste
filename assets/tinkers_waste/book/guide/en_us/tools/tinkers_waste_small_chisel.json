@@ -1,0 +1,13 @@
+{
+  "tool": "tinkers_waste:small_chisel",
+  "text": [
+    {
+      "text": "The small chisel is a pickaxe-class tool with blazing mining speed, but its durability is very low and it cannot be repaired."
+    }
+  ],
+  "properties": [
+    "High mining speed",
+    "Low durability",
+    "Single use"
+  ]
+}

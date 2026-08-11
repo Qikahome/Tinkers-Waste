@@ -1,0 +1,14 @@
+{
+  "level_display": {
+    "type": "tconstruct:unique",
+    "unique_until": 15,
+    "first_unique": true
+  },
+  "modules": [
+    {
+      "type": "qikas_tconlib:placed_light_minimum",
+      "light": { "each_level": 1 }
+    }
+  ],
+  "tooltip_display": "always"
+}

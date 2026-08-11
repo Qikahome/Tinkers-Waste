@@ -1,0 +1,9 @@
+{
+  "level_display": "tconstruct:no_levels",
+  "modules": [
+    {
+      "type":"qikas_tconlib:washable"
+    }
+  ],
+  "tooltip_display": "always"
+}

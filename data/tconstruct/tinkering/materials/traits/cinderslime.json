@@ -1,0 +1,18 @@
+{
+  "perStat": {
+    "tinkers_waste:torch_head": [
+      {
+        "level": 1,
+        "name": "tinkers_waste:overburn_melee"
+      },
+      {
+        "level": 15,
+        "name": "tinkers_waste:light_ammo"
+      },
+      {
+        "level": 1,
+        "name": "tinkers_waste:waterproof"
+      }
+    ]
+  }
+}

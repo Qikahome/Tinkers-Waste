@@ -1,0 +1,13 @@
+{
+  "default": [
+    { "name": "tinkers_waste:reburn", "level": 1 },
+    { "name": "tinkers_waste:spreading_flame", "level": 1 }
+  ],
+  "perStat": {
+    "tinkers_waste:torch_head": [
+      { "name": "tinkers_waste:light_ammo", "level": 14 },
+      { "name": "tinkers_waste:reburn", "level": 1 },
+      { "name": "tinkers_waste:spreading_flame", "level": 1 }
+    ]
+  }
+}

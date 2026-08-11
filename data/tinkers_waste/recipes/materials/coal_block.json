@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item":"minecraft:coal_block"
+  },
+  "leftover": "minecraft:coal",
+  "material": "tinkers_waste:coal",
+  "needed": 1,
+  "value": 9
+}

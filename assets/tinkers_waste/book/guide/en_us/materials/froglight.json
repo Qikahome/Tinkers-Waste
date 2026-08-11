@@ -1,0 +1,20 @@
+{
+  "title": "Froglight",
+  "item": [
+    "minecraft:verdant_froglight",
+    "minecraft:ochre_froglight",
+    "minecraft:pearlescent_froglight"
+  ],
+  "text": [
+    {
+      "text": "Froglights are the finest torch material, coming in three colors: verdant, ochre, and pearlescent. Frogs drop them after eating small magma cubes. Froglight torches come with overslime and overgrowth, glowing at full brightness."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Ribbit.",
+      "paragraph": true
+    }
+  ]
+}

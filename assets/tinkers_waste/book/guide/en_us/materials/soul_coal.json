@@ -1,0 +1,18 @@
+{
+  "title": "Soul",
+  "item": [
+    "tinkers_waste:soul_coal"
+  ],
+  "text": [
+    {
+      "text": "Soul coal is made by combining coal with liquid soul, sitting between plain coal and the rarer luminous materials. Soul torches glow at level 10 with a pale blue light, and come with soul fire that clings to targets."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Soul fire, burning forever.",
+      "paragraph": true
+    }
+  ]
+}
