@@ -1,7 +1,6 @@
 {
   "replace": false,
   "values": [
-    "tinkers_waste:placing",
-    "tinkers_waste:backpack"
+    "tinkers_waste:placing"
   ]
 }

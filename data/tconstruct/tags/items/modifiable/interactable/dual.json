@@ -4,7 +4,6 @@
     "tinkers_waste:torch",
     "tinkers_waste:rod",
     "tinkers_waste:litboard",
-    "tinkers_waste:backpack",
     {
       "id": "tinkers_thinking:battle_bucket",
       "required": false
