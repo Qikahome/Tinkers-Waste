@@ -49,6 +49,8 @@ config/
 run/
 # JarJar相关临时文件
 META-INF/jarjar/tmp/
+# 放行 JarJar 内嵌依赖（供 clone 后直接加载）
+!META-INF/jarjar/*.jar
 
 # ===================== 其他自定义忽略（可自行添加） =====================
 # 比如你的本地测试文件、日志文件等

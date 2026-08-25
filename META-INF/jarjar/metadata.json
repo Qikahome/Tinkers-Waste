@@ -6,10 +6,10 @@
         "artifact": "jsonmore"
       },
       "version": {
-        "range": "[1.2.9b,)",
-        "artifactVersion": "1.2.9b"
+        "range": "[1.2.9c,)",
+        "artifactVersion": "1.2.9c"
       },
-      "path": "META-INF/jarjar/jsonmore-1.20.1-1.2.9b-all.jar"
+      "path": "META-INF/jarjar/jsonmore-1.20.1-1.2.9c-all.jar"
     },
     {
       "identifier": {
@@ -17,10 +17,10 @@
         "artifact": "qikas_tconlib"
       },
       "version": {
-        "range": "[1.0.1,)",
-        "artifactVersion": "1.0.1"
+        "range": "[1.0.2,)",
+        "artifactVersion": "1.0.2b"
       },
-      "path": "META-INF/jarjar/qikas_tconlib-1.0.1-all.jar"
+      "path": "META-INF/jarjar/qikas_tconlib-1.0.2b-all.jar"
     }
   ]
 }
